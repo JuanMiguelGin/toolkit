@@ -75,7 +75,7 @@ def _generar_fila(idx: int, categorias: list[str]) -> dict:
         "disco_gb": random.choice([120, 256, 512, 1024, 2048]),
         "departamento": random.choice(DEPARTAMENTOS),
         "categoria_inventario": random.choice(categorias),
-        "anio_compra": random.randint(2015, 2024),
+        "año_compra": random.randint(2015, 2024),
         "activo": random.choice([True, True, True, False]),
     }
 
@@ -86,7 +86,7 @@ def generar_csv(ruta: str = OUTPUT_PATH, filas: int = FILAS) -> None:
     campos = [
         "id", "hostname", "ip", "sistema_operativo",
         "ram_gb", "cpu_cores", "disco_gb",
-        "departamento", "categoria_inventario", "anio_compra", "activo",
+        "departamento", "categoria_inventario", "año_compra", "activo",
     ]
     with open(ruta, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=campos)
