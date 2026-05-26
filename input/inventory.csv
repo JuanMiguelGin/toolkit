@@ -1,0 +1,1001 @@
+id,hostname,ip,sistema_operativo,ram_gb,cpu_cores,disco_gb,departamento,categoria_inventario,anio_compra,activo
+1,srv-sqwx-0001,10.3.129.34,Debian 11,16,16,120,IT,Alimentación,2018,True
+2,srv-rfjh-0002,10.5.66.78,CentOS 8,64,1,2048,RRHH,Deportes,2020,True
+3,srv-ecqm-0003,10.0.31.70,Debian 11,16,1,2048,Logística,Hogar,2019,False
+4,srv-olfy-0004,10.1.29.10,Debian 11,4,16,2048,Ventas,Hogar,2024,False
+5,srv-geuo-0005,10.1.23.250,Windows Server 2022,64,2,1024,IT,Hogar,2023,True
+6,srv-gdxx-0006,10.2.9.14,Windows Server 2019,32,4,2048,Logística,Electrónica,2023,False
+7,srv-idla-0007,10.3.17.5,Red Hat 9,2,8,1024,Operaciones,Hogar,2021,False
+8,srv-bklq-0008,10.4.162.187,Red Hat 9,2,8,120,Finanzas,Deportes,2015,True
+9,srv-mlft-0009,10.0.7.210,CentOS 8,4,4,1024,RRHH,Hogar,2018,True
+10,srv-mphf-0010,10.3.206.151,Ubuntu 22.04,8,1,2048,RRHH,Electrónica,2015,True
+11,srv-veso-0011,10.4.167.24,Red Hat 9,64,2,256,IT,Alimentación,2016,False
+12,srv-cffa-0012,10.3.150.26,Windows Server 2019,2,16,512,Finanzas,Hogar,2017,False
+13,srv-nrfc-0013,10.3.13.220,Ubuntu 20.04,32,4,2048,RRHH,Electrónica,2016,False
+14,srv-xyxn-0014,10.2.216.98,Windows Server 2022,2,16,1024,Marketing,Electrónica,2022,False
+15,srv-bgcr-0015,10.3.103.232,Ubuntu 20.04,8,4,256,IT,Alimentación,2018,True
+16,srv-xlef-0016,10.0.237.3,Ubuntu 20.04,2,1,1024,RRHH,Hogar,2023,True
+17,srv-wyqm-0017,10.4.5.101,Windows Server 2019,64,16,2048,IT,Electrónica,2020,True
+18,srv-qjwi-0018,10.1.112.17,Ubuntu 22.04,64,16,1024,RRHH,Alimentación,2024,True
+19,srv-sayl-0019,10.4.207.175,CentOS 8,64,1,1024,Finanzas,Hogar,2018,True
+20,srv-tygr-0020,10.4.60.162,Red Hat 9,32,4,2048,IT,Hogar,2015,True
+21,srv-flir-0021,10.2.213.220,Ubuntu 22.04,64,1,256,Finanzas,Electrónica,2020,True
+22,srv-itby-0022,10.1.184.235,Windows Server 2022,8,8,512,Finanzas,Electrónica,2022,False
+23,srv-zstz-0023,10.5.166.234,Debian 11,16,2,1024,IT,Hogar,2022,False
+24,srv-vtru-0024,10.2.180.8,Windows Server 2019,32,2,1024,Ventas,Hogar,2016,True
+25,srv-seed-0025,10.2.147.251,Windows Server 2022,4,2,256,Marketing,Alimentación,2024,True
+26,srv-zjwv-0026,10.0.232.77,CentOS 8,64,2,1024,Operaciones,Alimentación,2020,True
+27,srv-uebo-0027,10.2.240.148,Ubuntu 22.04,32,16,1024,IT,Deportes,2023,True
+28,srv-lrcg-0028,10.3.173.52,Debian 11,4,4,256,Operaciones,Hogar,2022,True
+29,srv-aglw-0029,10.1.101.244,Ubuntu 20.04,64,16,1024,Marketing,Electrónica,2024,True
+30,srv-hquy-0030,10.2.156.90,Ubuntu 20.04,64,1,2048,RRHH,Hogar,2016,False
+31,srv-zssu-0031,10.0.230.145,Ubuntu 20.04,2,8,1024,Operaciones,Deportes,2022,True
+32,srv-zjbb-0032,10.1.217.253,Windows Server 2019,32,1,2048,IT,Hogar,2022,True
+33,srv-szsa-0033,10.1.18.164,Red Hat 9,8,2,120,Finanzas,Hogar,2017,True
+34,srv-dudf-0034,10.5.191.53,Windows Server 2022,8,2,2048,Marketing,Electrónica,2024,False
+35,srv-riga-0035,10.2.85.177,Ubuntu 22.04,64,4,256,Ventas,Deportes,2016,True
+36,srv-qtpd-0036,10.4.110.5,Ubuntu 22.04,16,8,120,Ventas,Deportes,2021,True
+37,srv-lemh-0037,10.5.254.153,Ubuntu 22.04,4,8,256,Finanzas,Deportes,2021,True
+38,srv-ncld-0038,10.3.167.181,Ubuntu 20.04,8,1,2048,IT,Electrónica,2023,False
+39,srv-zlng-0039,10.2.2.217,CentOS 8,64,16,512,RRHH,Deportes,2018,True
+40,srv-idmc-0040,10.5.202.155,Debian 11,32,16,120,RRHH,Hogar,2021,True
+41,srv-hxgr-0041,10.4.250.200,Windows Server 2022,32,1,1024,Finanzas,Alimentación,2016,True
+42,srv-zwhy-0042,10.3.102.246,Ubuntu 20.04,2,1,512,Ventas,Electrónica,2016,True
+43,srv-ntup-0043,10.0.132.103,Ubuntu 22.04,8,1,120,RRHH,Deportes,2016,True
+44,srv-wtgw-0044,10.4.169.47,Ubuntu 22.04,32,8,1024,IT,Electrónica,2023,True
+45,srv-jkpx-0045,10.0.53.217,Windows Server 2019,64,4,512,IT,Deportes,2015,True
+46,srv-emfh-0046,10.0.91.51,CentOS 8,2,1,120,Finanzas,Electrónica,2015,False
+47,srv-bgff-0047,10.0.232.153,Windows Server 2022,16,2,2048,Marketing,Alimentación,2021,True
+48,srv-cbgl-0048,10.3.46.35,Windows Server 2022,4,8,512,Ventas,Hogar,2015,True
+49,srv-dxit-0049,10.4.35.126,Debian 11,64,8,2048,Marketing,Alimentación,2021,False
+50,srv-mmoa-0050,10.0.189.20,Red Hat 9,16,16,256,RRHH,Electrónica,2017,True
+51,srv-gzyq-0051,10.1.238.234,Windows Server 2019,16,16,512,Logística,Hogar,2022,True
+52,srv-aran-0052,10.3.248.41,Ubuntu 20.04,16,1,2048,Marketing,Deportes,2023,True
+53,srv-bxhv-0053,10.5.58.107,CentOS 8,32,4,120,IT,Hogar,2024,True
+54,srv-scxa-0054,10.0.198.12,Windows Server 2019,2,4,512,Finanzas,Electrónica,2023,True
+55,srv-wfgz-0055,10.2.185.169,Windows Server 2019,2,16,1024,Finanzas,Hogar,2023,True
+56,srv-vrli-0056,10.1.91.48,Red Hat 9,32,8,1024,IT,Electrónica,2018,True
+57,srv-jfnk-0057,10.1.58.102,Ubuntu 22.04,32,8,120,Logística,Deportes,2015,True
+58,srv-cklb-0058,10.5.198.218,Ubuntu 22.04,32,16,256,Logística,Alimentación,2015,True
+59,srv-pvhk-0059,10.2.67.219,Windows Server 2022,32,8,2048,Marketing,Deportes,2016,True
+60,srv-ckxg-0060,10.3.249.16,CentOS 8,2,2,512,Finanzas,Electrónica,2019,True
+61,srv-zodp-0061,10.0.110.61,Windows Server 2022,32,4,256,Finanzas,Hogar,2018,False
+62,srv-pfhv-0062,10.0.227.252,Ubuntu 22.04,16,4,1024,RRHH,Electrónica,2022,True
+63,srv-qbuk-0063,10.5.247.116,Ubuntu 22.04,4,8,1024,Operaciones,Hogar,2021,True
+64,srv-ktlo-0064,10.4.255.179,Red Hat 9,32,8,1024,Ventas,Deportes,2016,False
+65,srv-rtfd-0065,10.1.226.218,Windows Server 2019,16,4,512,Marketing,Deportes,2023,True
+66,srv-ueqb-0066,10.5.27.25,Windows Server 2022,4,16,1024,Finanzas,Hogar,2018,True
+67,srv-vvms-0067,10.2.116.41,Ubuntu 20.04,64,2,2048,Finanzas,Electrónica,2019,True
+68,srv-bejx-0068,10.2.65.132,Ubuntu 22.04,64,8,2048,Operaciones,Alimentación,2019,True
+69,srv-ruuh-0069,10.2.129.239,Debian 11,16,4,256,Operaciones,Electrónica,2015,True
+70,srv-vlln-0070,10.1.92.120,Red Hat 9,8,8,2048,IT,Deportes,2024,False
+71,srv-acnt-0071,10.4.235.71,Windows Server 2022,2,16,256,Marketing,Hogar,2017,True
+72,srv-svbo-0072,10.4.26.157,Red Hat 9,32,4,1024,RRHH,Electrónica,2022,True
+73,srv-xlpj-0073,10.5.175.28,Windows Server 2019,8,4,256,Marketing,Hogar,2024,True
+74,srv-kxth-0074,10.2.96.187,CentOS 8,64,4,120,Marketing,Electrónica,2021,True
+75,srv-yxrq-0075,10.5.146.219,Ubuntu 20.04,4,4,2048,Ventas,Electrónica,2017,True
+76,srv-xnhm-0076,10.2.57.161,Ubuntu 20.04,64,8,1024,IT,Hogar,2015,False
+77,srv-deqc-0077,10.5.161.208,Ubuntu 20.04,4,16,256,Finanzas,Hogar,2020,False
+78,srv-boty-0078,10.3.151.166,Ubuntu 22.04,64,1,120,IT,Alimentación,2017,False
+79,srv-jzwq-0079,10.3.75.101,Windows Server 2022,2,4,1024,Finanzas,Electrónica,2017,True
+80,srv-vmwt-0080,10.5.165.183,Red Hat 9,16,1,256,Operaciones,Electrónica,2019,True
+81,srv-wyjx-0081,10.1.69.23,CentOS 8,32,1,2048,Logística,Hogar,2024,True
+82,srv-iaxo-0082,10.5.2.61,Ubuntu 20.04,64,16,512,Operaciones,Hogar,2024,False
+83,srv-bbhh-0083,10.5.79.31,Windows Server 2022,16,2,1024,Operaciones,Alimentación,2017,True
+84,srv-tvlr-0084,10.5.108.139,Windows Server 2022,2,4,120,IT,Alimentación,2020,True
+85,srv-stok-0085,10.0.97.241,Debian 11,2,8,2048,Operaciones,Hogar,2019,True
+86,srv-qwbi-0086,10.1.26.230,Windows Server 2022,32,16,120,Marketing,Electrónica,2017,True
+87,srv-ruos-0087,10.1.112.153,Ubuntu 20.04,32,2,2048,Logística,Hogar,2015,True
+88,srv-hpyf-0088,10.1.3.221,Red Hat 9,4,8,256,RRHH,Alimentación,2018,True
+89,srv-jkoe-0089,10.5.68.206,CentOS 8,32,1,120,Finanzas,Electrónica,2020,False
+90,srv-qoby-0090,10.1.4.82,Windows Server 2019,2,2,2048,Finanzas,Deportes,2018,True
+91,srv-czyk-0091,10.4.2.120,Ubuntu 22.04,32,16,2048,Ventas,Hogar,2019,True
+92,srv-kocp-0092,10.5.197.186,Ubuntu 22.04,8,16,120,Logística,Alimentación,2018,True
+93,srv-ikgr-0093,10.1.185.30,CentOS 8,64,2,120,IT,Electrónica,2022,True
+94,srv-heca-0094,10.0.98.156,CentOS 8,16,8,2048,RRHH,Electrónica,2021,True
+95,srv-zyom-0095,10.5.88.50,Ubuntu 20.04,16,16,512,RRHH,Deportes,2023,True
+96,srv-xjdo-0096,10.3.5.230,Windows Server 2022,32,1,1024,Operaciones,Hogar,2015,True
+97,srv-teeq-0097,10.0.183.37,Debian 11,32,8,2048,Finanzas,Electrónica,2020,False
+98,srv-vfpp-0098,10.0.231.170,Red Hat 9,4,1,120,Operaciones,Deportes,2022,True
+99,srv-guct-0099,10.4.119.167,Windows Server 2022,16,16,2048,RRHH,Deportes,2020,True
+100,srv-tclu-0100,10.3.250.63,Windows Server 2019,16,1,120,Finanzas,Electrónica,2020,True
+101,srv-xroe-0101,10.3.24.28,Windows Server 2022,16,1,120,Marketing,Alimentación,2022,True
+102,srv-famu-0102,10.2.19.163,Windows Server 2022,64,1,512,RRHH,Electrónica,2022,False
+103,srv-ekea-0103,10.5.101.247,Windows Server 2019,32,1,512,IT,Deportes,2018,True
+104,srv-icvc-0104,10.2.172.98,Debian 11,32,4,120,Finanzas,Electrónica,2020,True
+105,srv-anul-0105,10.1.58.166,Red Hat 9,32,4,2048,Marketing,Deportes,2023,False
+106,srv-hgfa-0106,10.1.39.203,Windows Server 2019,16,16,2048,IT,Hogar,2019,True
+107,srv-dszh-0107,10.0.43.168,Ubuntu 22.04,64,2,1024,Ventas,Deportes,2017,True
+108,srv-xldc-0108,10.1.59.64,Debian 11,16,4,1024,Marketing,Alimentación,2024,True
+109,srv-ztdb-0109,10.2.4.164,Red Hat 9,8,4,120,IT,Electrónica,2019,True
+110,srv-muvj-0110,10.5.142.20,Ubuntu 20.04,16,16,512,Ventas,Electrónica,2016,True
+111,srv-akbr-0111,10.5.120.73,Windows Server 2022,2,4,2048,Logística,Alimentación,2024,True
+112,srv-wlwo-0112,10.3.248.41,Windows Server 2019,16,16,1024,Operaciones,Alimentación,2017,False
+113,srv-ozie-0113,10.3.195.215,Windows Server 2019,16,4,512,Operaciones,Hogar,2024,True
+114,srv-avkb-0114,10.5.40.129,Ubuntu 22.04,16,1,256,Marketing,Alimentación,2022,False
+115,srv-cgiy-0115,10.5.46.24,Debian 11,8,4,256,IT,Electrónica,2021,True
+116,srv-uuse-0116,10.0.248.138,Windows Server 2019,32,16,1024,Marketing,Electrónica,2017,False
+117,srv-knfy-0117,10.3.8.214,Red Hat 9,32,4,512,Ventas,Alimentación,2021,True
+118,srv-pgwa-0118,10.0.213.45,Windows Server 2019,32,2,120,Ventas,Deportes,2022,True
+119,srv-zrfr-0119,10.2.7.13,Debian 11,8,4,1024,Finanzas,Deportes,2015,True
+120,srv-hfhc-0120,10.5.139.39,Windows Server 2022,8,4,512,Marketing,Hogar,2022,True
+121,srv-bxhh-0121,10.3.116.30,Debian 11,8,4,2048,Logística,Deportes,2015,True
+122,srv-srtz-0122,10.5.8.8,Windows Server 2022,64,16,256,IT,Electrónica,2021,True
+123,srv-lxjx-0123,10.4.253.30,Windows Server 2022,8,16,2048,RRHH,Hogar,2024,True
+124,srv-kywd-0124,10.5.154.202,Windows Server 2022,2,1,2048,IT,Electrónica,2016,True
+125,srv-llkp-0125,10.4.137.141,Ubuntu 20.04,8,1,2048,Ventas,Alimentación,2024,True
+126,srv-joil-0126,10.0.147.24,CentOS 8,8,8,256,Operaciones,Electrónica,2024,False
+127,srv-ldsz-0127,10.1.200.79,Windows Server 2022,4,2,1024,Finanzas,Alimentación,2024,True
+128,srv-iydj-0128,10.0.127.198,CentOS 8,4,1,120,Logística,Hogar,2022,True
+129,srv-qmvv-0129,10.3.212.48,Ubuntu 20.04,8,2,120,Logística,Deportes,2023,True
+130,srv-gojf-0130,10.0.67.84,CentOS 8,32,2,512,Ventas,Hogar,2023,True
+131,srv-wpcy-0131,10.1.233.209,Red Hat 9,16,4,2048,Marketing,Electrónica,2024,True
+132,srv-awwu-0132,10.3.252.213,Red Hat 9,32,8,2048,Finanzas,Electrónica,2020,True
+133,srv-azoq-0133,10.1.237.247,Ubuntu 22.04,32,1,2048,Marketing,Alimentación,2018,True
+134,srv-ybkn-0134,10.2.89.232,Debian 11,4,2,120,Finanzas,Electrónica,2020,True
+135,srv-ozea-0135,10.5.156.33,Ubuntu 20.04,16,4,256,Operaciones,Hogar,2023,True
+136,srv-rukg-0136,10.2.137.113,Red Hat 9,16,16,512,Marketing,Hogar,2024,True
+137,srv-dlxd-0137,10.4.36.218,Ubuntu 20.04,4,4,512,Logística,Electrónica,2021,True
+138,srv-eivy-0138,10.1.98.167,CentOS 8,2,2,256,IT,Electrónica,2020,False
+139,srv-oxfi-0139,10.1.198.184,Debian 11,32,1,256,Finanzas,Electrónica,2022,True
+140,srv-nycq-0140,10.3.26.109,Windows Server 2019,16,2,120,Operaciones,Hogar,2016,True
+141,srv-yerh-0141,10.0.49.185,Ubuntu 20.04,2,1,256,IT,Electrónica,2022,True
+142,srv-wwse-0142,10.5.6.119,CentOS 8,32,1,1024,IT,Electrónica,2018,True
+143,srv-dvjn-0143,10.3.171.38,Ubuntu 22.04,4,1,2048,Logística,Alimentación,2015,True
+144,srv-ztpr-0144,10.3.169.152,Ubuntu 22.04,64,2,512,Marketing,Hogar,2023,True
+145,srv-vhsk-0145,10.5.176.61,Windows Server 2022,8,16,512,Ventas,Deportes,2018,True
+146,srv-sprd-0146,10.4.60.233,Ubuntu 20.04,4,4,512,Finanzas,Deportes,2015,True
+147,srv-ubee-0147,10.1.104.99,Ubuntu 20.04,16,16,256,Marketing,Hogar,2018,True
+148,srv-mcsv-0148,10.4.251.248,Windows Server 2019,32,2,120,Marketing,Hogar,2017,True
+149,srv-vafj-0149,10.0.18.210,CentOS 8,8,4,256,Finanzas,Electrónica,2018,True
+150,srv-ssev-0150,10.5.170.163,Windows Server 2019,64,1,512,RRHH,Hogar,2019,True
+151,srv-kgtb-0151,10.3.134.207,CentOS 8,2,1,512,Ventas,Deportes,2015,True
+152,srv-zpde-0152,10.0.35.113,CentOS 8,2,4,120,IT,Deportes,2022,True
+153,srv-dwdt-0153,10.5.47.151,Ubuntu 22.04,16,2,1024,RRHH,Alimentación,2016,True
+154,srv-gzwi-0154,10.1.17.176,Windows Server 2019,2,4,120,RRHH,Deportes,2016,True
+155,srv-chmj-0155,10.1.38.234,Ubuntu 20.04,8,4,2048,Finanzas,Hogar,2018,True
+156,srv-fnjs-0156,10.4.254.208,Ubuntu 22.04,32,2,256,Operaciones,Deportes,2016,False
+157,srv-nack-0157,10.3.101.93,Debian 11,32,1,2048,IT,Hogar,2015,True
+158,srv-ojie-0158,10.0.219.70,Debian 11,8,1,120,Operaciones,Electrónica,2021,True
+159,srv-wiwo-0159,10.2.243.64,Windows Server 2022,8,8,2048,IT,Electrónica,2024,True
+160,srv-chgj-0160,10.3.187.75,Debian 11,4,2,512,Finanzas,Hogar,2023,True
+161,srv-sxqv-0161,10.5.91.74,Debian 11,8,8,512,Operaciones,Electrónica,2016,True
+162,srv-hzef-0162,10.3.125.176,Red Hat 9,32,8,2048,Finanzas,Electrónica,2015,False
+163,srv-dkre-0163,10.1.78.178,CentOS 8,64,2,256,Marketing,Alimentación,2016,True
+164,srv-bewq-0164,10.5.208.138,Windows Server 2022,4,1,120,Logística,Hogar,2019,True
+165,srv-jezb-0165,10.3.232.126,Debian 11,16,1,256,RRHH,Hogar,2019,True
+166,srv-npuv-0166,10.5.112.243,CentOS 8,2,8,1024,Finanzas,Deportes,2019,True
+167,srv-ayyq-0167,10.2.241.61,Windows Server 2022,16,1,2048,Operaciones,Alimentación,2022,True
+168,srv-lpue-0168,10.3.245.61,Windows Server 2019,2,2,120,Logística,Electrónica,2016,True
+169,srv-virn-0169,10.3.186.180,Windows Server 2022,4,2,512,Operaciones,Alimentación,2015,False
+170,srv-spdb-0170,10.0.188.135,Windows Server 2022,2,1,1024,Finanzas,Deportes,2015,False
+171,srv-bhlt-0171,10.1.215.31,CentOS 8,2,8,256,Finanzas,Hogar,2019,True
+172,srv-njhx-0172,10.0.0.124,Red Hat 9,2,16,1024,RRHH,Electrónica,2016,True
+173,srv-dowo-0173,10.4.170.136,Ubuntu 20.04,64,1,2048,Operaciones,Alimentación,2020,False
+174,srv-dwqd-0174,10.2.244.139,Red Hat 9,8,8,512,RRHH,Deportes,2015,True
+175,srv-wgyh-0175,10.4.179.161,Windows Server 2022,4,16,2048,Ventas,Hogar,2023,True
+176,srv-jexp-0176,10.4.71.142,Red Hat 9,8,2,512,Finanzas,Hogar,2019,True
+177,srv-cpku-0177,10.0.178.1,Windows Server 2022,64,16,1024,Operaciones,Electrónica,2024,False
+178,srv-xpmq-0178,10.3.14.250,Debian 11,32,2,120,Operaciones,Deportes,2016,True
+179,srv-flno-0179,10.1.13.74,CentOS 8,16,8,2048,Ventas,Hogar,2019,True
+180,srv-mkwq-0180,10.5.19.190,Ubuntu 22.04,4,8,1024,Logística,Electrónica,2017,False
+181,srv-vpid-0181,10.2.254.248,Ubuntu 20.04,64,4,1024,Finanzas,Deportes,2016,True
+182,srv-dmjs-0182,10.5.103.16,CentOS 8,32,1,120,Marketing,Deportes,2024,True
+183,srv-cwub-0183,10.3.115.240,Debian 11,32,1,2048,Logística,Hogar,2024,True
+184,srv-hlnp-0184,10.2.221.145,Windows Server 2019,16,8,512,Logística,Hogar,2019,True
+185,srv-jbkx-0185,10.0.22.37,Ubuntu 20.04,4,16,1024,Operaciones,Alimentación,2024,True
+186,srv-dbvr-0186,10.3.78.8,Ubuntu 22.04,64,8,1024,Logística,Hogar,2023,True
+187,srv-dlxi-0187,10.0.178.14,Windows Server 2022,8,8,512,Logística,Alimentación,2017,True
+188,srv-jcfq-0188,10.3.113.29,Windows Server 2022,4,8,2048,IT,Deportes,2016,False
+189,srv-lpac-0189,10.1.11.99,CentOS 8,4,1,120,Ventas,Alimentación,2015,True
+190,srv-ntqd-0190,10.0.75.177,Ubuntu 22.04,8,1,1024,Logística,Deportes,2022,True
+191,srv-ylal-0191,10.3.166.114,CentOS 8,32,1,256,RRHH,Electrónica,2021,True
+192,srv-ffhh-0192,10.3.201.120,Windows Server 2019,32,16,120,IT,Deportes,2020,True
+193,srv-pkuf-0193,10.3.182.207,Red Hat 9,2,16,2048,Marketing,Hogar,2024,False
+194,srv-cbvm-0194,10.1.175.197,Windows Server 2019,32,2,256,Marketing,Electrónica,2016,True
+195,srv-rbsu-0195,10.0.175.196,Debian 11,4,8,256,Marketing,Deportes,2022,True
+196,srv-xyrr-0196,10.1.30.214,CentOS 8,64,8,120,Logística,Hogar,2019,False
+197,srv-rzff-0197,10.2.168.106,Ubuntu 20.04,32,4,2048,Marketing,Alimentación,2017,True
+198,srv-aqlj-0198,10.5.16.83,CentOS 8,2,4,120,RRHH,Deportes,2024,False
+199,srv-rhid-0199,10.1.173.134,Windows Server 2019,32,1,2048,IT,Electrónica,2020,False
+200,srv-qxqb-0200,10.4.194.236,Red Hat 9,8,1,120,Ventas,Alimentación,2019,False
+201,srv-yydl-0201,10.3.47.180,Windows Server 2022,2,16,2048,Operaciones,Hogar,2024,True
+202,srv-evbi-0202,10.3.86.241,CentOS 8,64,16,256,Ventas,Electrónica,2019,True
+203,srv-ajnf-0203,10.4.109.166,CentOS 8,2,1,2048,Finanzas,Hogar,2018,True
+204,srv-jukk-0204,10.0.13.59,Ubuntu 20.04,4,4,2048,RRHH,Alimentación,2018,True
+205,srv-dbdl-0205,10.5.101.200,CentOS 8,16,4,256,Finanzas,Electrónica,2016,True
+206,srv-yfww-0206,10.5.244.38,Ubuntu 22.04,16,4,1024,Finanzas,Hogar,2022,True
+207,srv-wypy-0207,10.3.60.1,Windows Server 2019,64,16,256,RRHH,Alimentación,2016,True
+208,srv-skbv-0208,10.4.118.241,Ubuntu 22.04,8,4,1024,RRHH,Electrónica,2024,True
+209,srv-tjtn-0209,10.0.226.33,Ubuntu 20.04,64,4,2048,Ventas,Deportes,2023,True
+210,srv-cwrx-0210,10.2.39.192,Ubuntu 20.04,16,2,1024,Operaciones,Electrónica,2024,True
+211,srv-qgdj-0211,10.4.177.142,CentOS 8,8,4,120,Finanzas,Alimentación,2021,True
+212,srv-xoex-0212,10.5.42.219,CentOS 8,64,4,256,Ventas,Deportes,2015,True
+213,srv-rdqx-0213,10.4.32.76,Red Hat 9,16,2,2048,Finanzas,Alimentación,2024,False
+214,srv-xurr-0214,10.0.37.74,Red Hat 9,16,1,120,Marketing,Hogar,2020,False
+215,srv-sqla-0215,10.3.127.157,CentOS 8,16,4,1024,Finanzas,Electrónica,2024,False
+216,srv-kzfn-0216,10.1.134.103,Ubuntu 22.04,4,2,120,Finanzas,Hogar,2018,True
+217,srv-rpct-0217,10.3.32.106,Windows Server 2022,16,2,120,Logística,Hogar,2024,True
+218,srv-dfms-0218,10.4.227.108,CentOS 8,16,4,120,Ventas,Alimentación,2019,True
+219,srv-ztpi-0219,10.3.92.7,Windows Server 2022,64,1,2048,RRHH,Hogar,2020,True
+220,srv-flys-0220,10.1.19.48,Ubuntu 22.04,64,1,256,Marketing,Deportes,2020,True
+221,srv-ioiu-0221,10.0.37.25,Windows Server 2022,16,2,512,Marketing,Electrónica,2023,True
+222,srv-ejsc-0222,10.2.231.211,Windows Server 2019,32,8,1024,IT,Deportes,2023,True
+223,srv-ljpl-0223,10.4.13.188,Ubuntu 22.04,2,16,1024,Marketing,Hogar,2023,True
+224,srv-xwdx-0224,10.1.48.152,Windows Server 2019,2,2,120,Logística,Hogar,2020,True
+225,srv-asai-0225,10.5.47.225,Ubuntu 22.04,32,1,256,Ventas,Electrónica,2023,True
+226,srv-jfsg-0226,10.1.149.194,Windows Server 2019,8,8,256,Marketing,Electrónica,2022,True
+227,srv-kesk-0227,10.5.24.88,Debian 11,16,16,1024,Ventas,Alimentación,2023,True
+228,srv-rjqy-0228,10.4.68.58,Windows Server 2019,2,2,512,Marketing,Hogar,2016,True
+229,srv-mlbl-0229,10.4.196.115,Ubuntu 20.04,2,2,2048,Ventas,Deportes,2016,True
+230,srv-bhxe-0230,10.4.166.31,Ubuntu 22.04,4,8,512,Marketing,Hogar,2023,True
+231,srv-uytt-0231,10.1.151.127,Ubuntu 22.04,16,8,1024,IT,Hogar,2016,True
+232,srv-gznr-0232,10.2.22.27,CentOS 8,8,1,256,Marketing,Hogar,2024,False
+233,srv-wdmu-0233,10.1.195.89,CentOS 8,8,4,120,Operaciones,Hogar,2019,True
+234,srv-yjsk-0234,10.2.28.249,Ubuntu 22.04,32,4,256,Logística,Alimentación,2021,False
+235,srv-dqfd-0235,10.3.103.25,Ubuntu 22.04,8,16,256,Logística,Deportes,2017,True
+236,srv-xfoa-0236,10.3.242.90,Windows Server 2019,8,8,256,Marketing,Alimentación,2020,True
+237,srv-hkww-0237,10.2.54.115,Ubuntu 22.04,8,8,120,RRHH,Hogar,2018,False
+238,srv-qoas-0238,10.3.48.54,CentOS 8,32,1,256,RRHH,Alimentación,2021,True
+239,srv-mfdz-0239,10.0.60.122,Windows Server 2022,64,4,512,Logística,Deportes,2019,True
+240,srv-eask-0240,10.0.60.229,Windows Server 2022,32,16,120,Ventas,Hogar,2019,False
+241,srv-tnoi-0241,10.4.202.63,Ubuntu 20.04,16,8,512,RRHH,Deportes,2017,True
+242,srv-woda-0242,10.4.101.72,Windows Server 2019,2,8,1024,IT,Deportes,2023,False
+243,srv-jnks-0243,10.0.98.173,Debian 11,32,2,120,RRHH,Alimentación,2018,False
+244,srv-gmbr-0244,10.2.247.93,Red Hat 9,16,2,2048,Ventas,Electrónica,2021,False
+245,srv-wrdi-0245,10.2.218.166,Ubuntu 20.04,64,8,256,Logística,Deportes,2017,True
+246,srv-ylle-0246,10.3.226.165,Windows Server 2019,16,1,512,IT,Hogar,2023,True
+247,srv-qeno-0247,10.1.62.51,Windows Server 2019,8,16,512,Marketing,Alimentación,2015,True
+248,srv-czkp-0248,10.1.251.89,Windows Server 2019,32,4,120,Ventas,Hogar,2015,True
+249,srv-fxov-0249,10.2.199.180,Red Hat 9,32,16,2048,Logística,Deportes,2015,True
+250,srv-sjvp-0250,10.5.65.118,Ubuntu 22.04,32,2,120,Operaciones,Deportes,2015,True
+251,srv-xibv-0251,10.4.16.244,Ubuntu 20.04,16,2,1024,Marketing,Alimentación,2021,True
+252,srv-qqpu-0252,10.2.123.253,Ubuntu 22.04,2,16,2048,Logística,Electrónica,2023,True
+253,srv-tsap-0253,10.3.119.185,Ubuntu 22.04,2,8,512,Finanzas,Electrónica,2022,False
+254,srv-tgmk-0254,10.0.227.46,Red Hat 9,64,4,512,RRHH,Electrónica,2017,True
+255,srv-jknx-0255,10.3.9.183,Red Hat 9,2,8,120,Marketing,Alimentación,2019,True
+256,srv-udvb-0256,10.1.121.63,Debian 11,4,1,256,IT,Hogar,2023,True
+257,srv-akfy-0257,10.2.149.215,Red Hat 9,32,4,2048,Marketing,Electrónica,2015,True
+258,srv-qbcv-0258,10.3.174.238,Ubuntu 20.04,16,2,120,RRHH,Electrónica,2023,True
+259,srv-dnsm-0259,10.5.24.8,Windows Server 2019,64,16,120,IT,Hogar,2015,True
+260,srv-gpdn-0260,10.1.234.217,Windows Server 2019,16,1,2048,IT,Electrónica,2022,True
+261,srv-wwmb-0261,10.5.162.82,Ubuntu 22.04,64,8,512,Marketing,Hogar,2023,True
+262,srv-aazp-0262,10.2.234.169,CentOS 8,4,4,256,IT,Alimentación,2020,True
+263,srv-mvro-0263,10.3.51.251,Ubuntu 20.04,8,1,2048,Marketing,Alimentación,2021,True
+264,srv-joxv-0264,10.4.148.133,Debian 11,4,8,1024,Operaciones,Alimentación,2024,True
+265,srv-azwd-0265,10.1.168.96,Windows Server 2019,16,8,120,Logística,Electrónica,2023,False
+266,srv-rhol-0266,10.4.132.222,Red Hat 9,2,16,256,Ventas,Alimentación,2021,True
+267,srv-rqpx-0267,10.1.234.127,Windows Server 2022,16,4,120,RRHH,Alimentación,2024,False
+268,srv-czup-0268,10.4.137.185,Ubuntu 22.04,64,8,120,Ventas,Deportes,2018,False
+269,srv-bfke-0269,10.0.128.182,Debian 11,16,1,1024,IT,Alimentación,2021,True
+270,srv-podu-0270,10.5.238.117,Ubuntu 22.04,32,8,512,RRHH,Electrónica,2021,False
+271,srv-lryy-0271,10.5.229.27,Ubuntu 20.04,16,1,1024,Operaciones,Hogar,2023,True
+272,srv-oqzs-0272,10.4.255.94,Windows Server 2022,4,4,256,Operaciones,Hogar,2021,True
+273,srv-rrif-0273,10.5.244.230,Ubuntu 22.04,32,8,1024,IT,Alimentación,2017,True
+274,srv-txuy-0274,10.0.167.108,Debian 11,16,8,2048,IT,Hogar,2015,True
+275,srv-pgzu-0275,10.3.159.164,CentOS 8,64,4,512,Ventas,Hogar,2022,True
+276,srv-xovx-0276,10.3.34.98,Windows Server 2022,4,8,120,RRHH,Hogar,2017,True
+277,srv-sask-0277,10.1.67.48,Red Hat 9,16,16,1024,Finanzas,Hogar,2021,False
+278,srv-jhkh-0278,10.3.217.116,Ubuntu 22.04,32,8,120,Operaciones,Hogar,2019,True
+279,srv-bvsm-0279,10.4.182.211,Debian 11,4,2,1024,Logística,Deportes,2022,False
+280,srv-kszf-0280,10.2.174.163,Ubuntu 20.04,16,4,512,Ventas,Hogar,2024,True
+281,srv-ohpn-0281,10.4.52.19,Debian 11,32,8,2048,Logística,Electrónica,2017,True
+282,srv-aeic-0282,10.2.92.100,Debian 11,4,16,120,Marketing,Hogar,2022,True
+283,srv-dnqb-0283,10.0.4.230,Ubuntu 20.04,4,1,512,RRHH,Electrónica,2022,True
+284,srv-dlcv-0284,10.3.182.17,Debian 11,64,16,1024,Logística,Electrónica,2015,True
+285,srv-ofgl-0285,10.4.13.106,CentOS 8,32,16,512,Marketing,Deportes,2017,True
+286,srv-akcd-0286,10.1.183.69,Debian 11,4,16,2048,Operaciones,Hogar,2022,True
+287,srv-urgn-0287,10.0.105.4,CentOS 8,4,2,120,Operaciones,Hogar,2024,False
+288,srv-jfbf-0288,10.0.134.72,Debian 11,2,4,1024,Finanzas,Electrónica,2021,True
+289,srv-yyww-0289,10.0.219.107,Windows Server 2022,16,4,2048,Marketing,Deportes,2016,True
+290,srv-tlmy-0290,10.4.235.160,Ubuntu 20.04,4,8,1024,Logística,Hogar,2015,False
+291,srv-pmkq-0291,10.5.29.51,Ubuntu 22.04,64,8,2048,RRHH,Deportes,2020,True
+292,srv-rqvx-0292,10.1.52.33,Ubuntu 22.04,2,4,1024,Operaciones,Alimentación,2024,True
+293,srv-jskw-0293,10.3.69.58,Red Hat 9,8,1,120,Logística,Alimentación,2016,True
+294,srv-mlhr-0294,10.5.150.137,Windows Server 2022,8,2,2048,Finanzas,Electrónica,2023,True
+295,srv-kquh-0295,10.0.45.67,CentOS 8,16,2,120,Marketing,Hogar,2017,True
+296,srv-nhtb-0296,10.1.219.79,Ubuntu 20.04,16,1,1024,Operaciones,Hogar,2021,True
+297,srv-gynw-0297,10.2.202.92,Ubuntu 20.04,8,16,512,Operaciones,Alimentación,2024,True
+298,srv-ejez-0298,10.4.90.75,Windows Server 2019,64,16,512,IT,Electrónica,2019,True
+299,srv-uaso-0299,10.2.177.4,Debian 11,8,1,512,IT,Alimentación,2019,True
+300,srv-jqag-0300,10.4.140.143,Ubuntu 20.04,4,8,256,Operaciones,Hogar,2017,True
+301,srv-vemv-0301,10.0.232.2,Red Hat 9,64,8,1024,IT,Deportes,2019,True
+302,srv-wegy-0302,10.4.232.57,Ubuntu 20.04,2,1,2048,Logística,Hogar,2020,True
+303,srv-bngx-0303,10.4.249.210,CentOS 8,64,1,256,RRHH,Alimentación,2024,True
+304,srv-hluw-0304,10.0.210.161,Windows Server 2022,4,4,512,IT,Deportes,2024,True
+305,srv-jske-0305,10.2.187.190,Red Hat 9,2,8,512,Ventas,Deportes,2022,True
+306,srv-faea-0306,10.1.105.181,Ubuntu 20.04,4,4,256,Marketing,Deportes,2015,True
+307,srv-vfsz-0307,10.1.181.231,Debian 11,16,8,512,RRHH,Deportes,2021,True
+308,srv-loue-0308,10.2.222.158,CentOS 8,64,1,256,Marketing,Electrónica,2016,True
+309,srv-qmae-0309,10.0.12.191,Windows Server 2019,2,2,512,Operaciones,Hogar,2022,True
+310,srv-vyks-0310,10.5.252.151,Ubuntu 22.04,64,8,2048,Marketing,Hogar,2019,True
+311,srv-lxrz-0311,10.2.17.48,CentOS 8,16,16,1024,RRHH,Alimentación,2024,True
+312,srv-iilh-0312,10.4.117.191,Windows Server 2019,4,8,512,Ventas,Hogar,2017,False
+313,srv-hlzf-0313,10.0.70.145,CentOS 8,4,1,120,RRHH,Hogar,2015,True
+314,srv-guaj-0314,10.2.61.72,Ubuntu 20.04,64,2,2048,Operaciones,Deportes,2024,True
+315,srv-fchv-0315,10.3.37.44,Windows Server 2019,32,2,512,RRHH,Deportes,2015,True
+316,srv-rckx-0316,10.3.104.102,CentOS 8,4,1,120,RRHH,Alimentación,2015,True
+317,srv-vyzj-0317,10.1.105.129,CentOS 8,16,16,2048,RRHH,Hogar,2022,False
+318,srv-hilo-0318,10.5.149.139,Windows Server 2019,32,2,1024,Marketing,Hogar,2017,True
+319,srv-nnrl-0319,10.1.116.5,Windows Server 2019,8,2,512,Marketing,Deportes,2019,True
+320,srv-vrlb-0320,10.0.166.53,Windows Server 2019,16,8,2048,Marketing,Deportes,2024,True
+321,srv-dcok-0321,10.1.227.188,Debian 11,64,2,512,Marketing,Electrónica,2020,True
+322,srv-idnf-0322,10.1.113.14,Ubuntu 22.04,4,2,2048,IT,Alimentación,2017,False
+323,srv-dafk-0323,10.2.249.145,Windows Server 2022,2,1,1024,Ventas,Electrónica,2022,False
+324,srv-xrwj-0324,10.0.66.121,Ubuntu 20.04,8,16,512,Finanzas,Deportes,2017,True
+325,srv-xruv-0325,10.2.106.247,Ubuntu 22.04,64,4,512,RRHH,Deportes,2015,True
+326,srv-vjji-0326,10.2.241.198,Debian 11,2,8,256,IT,Deportes,2016,False
+327,srv-mbus-0327,10.2.139.63,Ubuntu 22.04,8,1,512,Ventas,Deportes,2015,False
+328,srv-vbfi-0328,10.0.118.209,Windows Server 2019,32,8,1024,Logística,Hogar,2023,True
+329,srv-ctoo-0329,10.0.248.34,Ubuntu 22.04,4,16,120,Finanzas,Hogar,2021,False
+330,srv-dfya-0330,10.4.114.153,Debian 11,32,4,2048,Logística,Alimentación,2023,True
+331,srv-ixnj-0331,10.0.228.154,CentOS 8,4,16,2048,Operaciones,Electrónica,2021,True
+332,srv-jmdi-0332,10.1.243.2,Red Hat 9,32,16,120,Marketing,Alimentación,2022,True
+333,srv-zkne-0333,10.4.31.247,Red Hat 9,8,8,256,Marketing,Hogar,2023,True
+334,srv-bjqb-0334,10.5.72.120,CentOS 8,16,4,2048,IT,Deportes,2017,False
+335,srv-ieyh-0335,10.4.213.235,CentOS 8,2,4,256,Logística,Deportes,2018,False
+336,srv-nybg-0336,10.1.238.35,Debian 11,2,4,2048,Logística,Alimentación,2023,True
+337,srv-jayu-0337,10.5.139.215,Red Hat 9,4,4,2048,IT,Deportes,2019,False
+338,srv-vtft-0338,10.5.163.51,Ubuntu 22.04,32,16,512,RRHH,Electrónica,2017,True
+339,srv-ojwm-0339,10.0.80.4,Windows Server 2022,2,1,512,Finanzas,Hogar,2017,False
+340,srv-unfq-0340,10.0.148.141,Windows Server 2022,32,8,2048,Logística,Deportes,2024,True
+341,srv-orqw-0341,10.5.84.243,Ubuntu 22.04,64,16,512,RRHH,Electrónica,2018,False
+342,srv-utjv-0342,10.2.195.238,Red Hat 9,8,4,1024,IT,Electrónica,2022,True
+343,srv-ikdp-0343,10.0.214.198,CentOS 8,8,16,256,Marketing,Hogar,2020,False
+344,srv-nsai-0344,10.1.77.52,Ubuntu 20.04,8,4,256,Operaciones,Deportes,2017,True
+345,srv-zmxg-0345,10.2.105.226,Windows Server 2019,8,2,120,RRHH,Electrónica,2018,False
+346,srv-kolp-0346,10.1.191.230,Debian 11,2,2,1024,Marketing,Hogar,2023,True
+347,srv-yrgo-0347,10.2.97.3,Ubuntu 22.04,4,4,120,Marketing,Alimentación,2017,True
+348,srv-sbth-0348,10.4.151.227,CentOS 8,4,8,256,Operaciones,Hogar,2020,True
+349,srv-ydlw-0349,10.0.117.78,Ubuntu 22.04,16,4,1024,RRHH,Electrónica,2021,False
+350,srv-fafw-0350,10.5.195.201,CentOS 8,32,8,256,Finanzas,Deportes,2022,True
+351,srv-zqgt-0351,10.4.143.151,Windows Server 2022,32,1,1024,Operaciones,Electrónica,2023,True
+352,srv-vgzn-0352,10.0.195.41,CentOS 8,4,16,1024,Ventas,Electrónica,2018,True
+353,srv-xjzn-0353,10.2.182.44,CentOS 8,2,2,2048,Logística,Deportes,2017,True
+354,srv-cqfa-0354,10.2.125.231,Red Hat 9,16,1,256,Ventas,Deportes,2018,True
+355,srv-jers-0355,10.5.184.174,Windows Server 2022,32,4,256,IT,Hogar,2021,False
+356,srv-wufh-0356,10.3.43.40,Windows Server 2019,4,1,512,IT,Hogar,2021,True
+357,srv-cuma-0357,10.1.204.40,Windows Server 2022,2,2,2048,RRHH,Deportes,2017,True
+358,srv-ulru-0358,10.3.166.141,Debian 11,4,8,2048,IT,Hogar,2016,True
+359,srv-ltsa-0359,10.2.114.58,Ubuntu 20.04,64,16,2048,RRHH,Electrónica,2024,True
+360,srv-xlds-0360,10.2.100.31,Debian 11,2,16,120,Operaciones,Deportes,2023,True
+361,srv-fhbd-0361,10.5.59.208,Ubuntu 22.04,64,16,256,Marketing,Electrónica,2018,True
+362,srv-jphz-0362,10.3.196.213,Debian 11,4,2,1024,IT,Hogar,2022,True
+363,srv-ejfk-0363,10.2.138.17,Ubuntu 20.04,32,16,120,Marketing,Electrónica,2024,False
+364,srv-okvi-0364,10.1.144.219,Red Hat 9,2,8,256,RRHH,Alimentación,2017,True
+365,srv-blbq-0365,10.4.106.162,Windows Server 2022,16,8,256,Logística,Deportes,2019,True
+366,srv-undb-0366,10.0.205.22,Ubuntu 22.04,64,8,1024,Logística,Deportes,2021,True
+367,srv-yyvt-0367,10.4.208.46,Windows Server 2022,8,4,120,Logística,Alimentación,2017,False
+368,srv-eodi-0368,10.0.6.4,Red Hat 9,64,2,1024,Logística,Electrónica,2016,False
+369,srv-zzox-0369,10.3.113.6,Ubuntu 22.04,2,1,120,RRHH,Alimentación,2022,False
+370,srv-sjsh-0370,10.5.60.249,Windows Server 2022,16,4,1024,Logística,Alimentación,2019,True
+371,srv-zltx-0371,10.5.216.48,Windows Server 2022,4,4,256,IT,Electrónica,2018,True
+372,srv-xujo-0372,10.2.156.207,Ubuntu 20.04,64,2,2048,IT,Alimentación,2022,True
+373,srv-bjkz-0373,10.0.144.137,Ubuntu 22.04,64,2,512,Ventas,Hogar,2018,False
+374,srv-yxir-0374,10.5.42.202,Ubuntu 22.04,8,2,2048,Operaciones,Electrónica,2020,False
+375,srv-xbgf-0375,10.5.5.185,Ubuntu 22.04,32,2,512,Logística,Hogar,2019,False
+376,srv-mvrs-0376,10.3.131.249,Debian 11,16,2,120,Finanzas,Hogar,2016,True
+377,srv-waad-0377,10.0.20.119,Red Hat 9,64,4,256,RRHH,Hogar,2023,True
+378,srv-nwfe-0378,10.0.228.16,Ubuntu 20.04,16,16,256,Marketing,Electrónica,2016,False
+379,srv-dbcw-0379,10.0.136.253,Windows Server 2022,2,8,2048,Marketing,Deportes,2022,True
+380,srv-pmmy-0380,10.2.158.149,Windows Server 2019,4,4,256,Marketing,Alimentación,2024,True
+381,srv-zusi-0381,10.4.51.194,Ubuntu 22.04,32,8,2048,Ventas,Hogar,2021,False
+382,srv-jcle-0382,10.4.113.193,Ubuntu 20.04,8,1,1024,IT,Hogar,2022,True
+383,srv-qwiq-0383,10.2.1.40,Windows Server 2019,4,1,1024,Marketing,Electrónica,2019,True
+384,srv-zcdy-0384,10.2.47.38,Ubuntu 22.04,8,8,2048,Finanzas,Hogar,2021,True
+385,srv-nqla-0385,10.2.65.15,Ubuntu 20.04,64,2,120,RRHH,Deportes,2023,True
+386,srv-thua-0386,10.3.78.34,CentOS 8,8,16,256,Operaciones,Alimentación,2023,False
+387,srv-kpph-0387,10.0.138.132,Windows Server 2019,32,16,512,IT,Alimentación,2017,False
+388,srv-oucx-0388,10.1.98.88,Ubuntu 20.04,2,2,2048,Ventas,Deportes,2022,False
+389,srv-mmkw-0389,10.5.194.252,Windows Server 2019,2,8,120,IT,Deportes,2023,True
+390,srv-iwux-0390,10.0.42.162,Windows Server 2019,16,4,1024,Operaciones,Deportes,2016,True
+391,srv-qibl-0391,10.3.185.229,Ubuntu 20.04,32,8,120,Operaciones,Hogar,2016,True
+392,srv-ccpb-0392,10.1.47.131,Windows Server 2022,64,8,256,Finanzas,Deportes,2017,True
+393,srv-zvra-0393,10.4.128.195,CentOS 8,16,8,2048,Finanzas,Electrónica,2024,True
+394,srv-abri-0394,10.3.15.243,Debian 11,8,1,120,Finanzas,Hogar,2015,False
+395,srv-ptln-0395,10.3.54.34,Debian 11,64,2,120,RRHH,Deportes,2017,True
+396,srv-kibd-0396,10.5.123.213,CentOS 8,8,4,512,Finanzas,Alimentación,2017,False
+397,srv-ilgx-0397,10.0.72.46,Debian 11,16,2,2048,Marketing,Hogar,2019,True
+398,srv-veqf-0398,10.5.158.153,CentOS 8,32,16,2048,RRHH,Hogar,2023,False
+399,srv-ltlp-0399,10.2.237.78,CentOS 8,16,2,1024,Ventas,Hogar,2016,True
+400,srv-vjlb-0400,10.4.179.197,Ubuntu 20.04,2,4,256,Marketing,Electrónica,2023,True
+401,srv-mzky-0401,10.2.158.240,Debian 11,8,16,512,Marketing,Alimentación,2022,True
+402,srv-tcog-0402,10.5.218.210,Red Hat 9,64,2,1024,Operaciones,Electrónica,2021,True
+403,srv-ydwz-0403,10.0.82.251,CentOS 8,8,16,2048,Marketing,Electrónica,2019,False
+404,srv-btut-0404,10.2.38.120,Debian 11,8,16,512,Finanzas,Hogar,2023,False
+405,srv-pftt-0405,10.3.17.130,Ubuntu 20.04,16,4,1024,Finanzas,Hogar,2021,True
+406,srv-hbvj-0406,10.3.22.222,Ubuntu 22.04,8,16,2048,Finanzas,Electrónica,2024,True
+407,srv-deqp-0407,10.5.44.131,Windows Server 2019,32,1,256,Finanzas,Hogar,2017,True
+408,srv-thtd-0408,10.4.66.90,Windows Server 2019,8,4,2048,Marketing,Deportes,2021,True
+409,srv-thfw-0409,10.4.206.135,Debian 11,8,4,120,Ventas,Alimentación,2016,True
+410,srv-rihg-0410,10.2.178.175,Ubuntu 22.04,16,1,2048,Marketing,Deportes,2021,True
+411,srv-wdpt-0411,10.0.197.144,Windows Server 2022,8,1,256,Logística,Electrónica,2016,True
+412,srv-lffn-0412,10.0.202.22,Windows Server 2022,8,2,256,Logística,Electrónica,2024,True
+413,srv-kyjr-0413,10.3.246.204,Ubuntu 20.04,64,16,1024,Marketing,Alimentación,2019,False
+414,srv-wmam-0414,10.4.17.68,Windows Server 2019,64,16,256,IT,Hogar,2024,True
+415,srv-kghy-0415,10.3.232.15,CentOS 8,16,1,256,Ventas,Deportes,2021,True
+416,srv-jfhe-0416,10.3.210.177,Windows Server 2019,2,16,256,Operaciones,Electrónica,2023,True
+417,srv-crai-0417,10.2.80.219,CentOS 8,4,8,120,Finanzas,Deportes,2023,True
+418,srv-dgej-0418,10.4.230.56,Ubuntu 20.04,64,16,512,Ventas,Hogar,2024,True
+419,srv-oyhu-0419,10.5.214.194,CentOS 8,8,2,120,IT,Electrónica,2023,True
+420,srv-mtiz-0420,10.4.10.149,Red Hat 9,32,4,256,RRHH,Hogar,2021,True
+421,srv-urkt-0421,10.3.149.146,Windows Server 2019,32,16,1024,Ventas,Alimentación,2024,False
+422,srv-ggyu-0422,10.1.168.232,CentOS 8,32,2,2048,Logística,Hogar,2021,True
+423,srv-dnna-0423,10.3.225.41,Windows Server 2022,2,8,256,Ventas,Electrónica,2022,True
+424,srv-vtue-0424,10.5.90.249,CentOS 8,32,1,1024,IT,Alimentación,2016,False
+425,srv-anun-0425,10.3.173.93,CentOS 8,4,1,512,Operaciones,Electrónica,2018,False
+426,srv-ymbl-0426,10.4.167.164,Ubuntu 20.04,2,16,256,Logística,Electrónica,2023,True
+427,srv-befg-0427,10.0.187.189,CentOS 8,64,1,120,IT,Hogar,2024,False
+428,srv-glax-0428,10.4.95.197,Debian 11,32,2,120,Finanzas,Deportes,2023,False
+429,srv-ombw-0429,10.0.112.89,Ubuntu 22.04,8,8,120,Ventas,Alimentación,2020,True
+430,srv-qsuy-0430,10.1.115.149,Windows Server 2022,4,8,512,Marketing,Electrónica,2015,True
+431,srv-xgkn-0431,10.0.83.214,Windows Server 2022,8,8,120,Ventas,Hogar,2015,False
+432,srv-crev-0432,10.5.204.71,Ubuntu 20.04,16,4,2048,IT,Hogar,2022,False
+433,srv-qarm-0433,10.2.23.17,Ubuntu 22.04,4,16,2048,IT,Electrónica,2019,True
+434,srv-lhpj-0434,10.4.237.106,Windows Server 2022,4,16,2048,Ventas,Hogar,2022,True
+435,srv-comb-0435,10.0.56.158,Windows Server 2019,4,1,1024,IT,Hogar,2022,True
+436,srv-jtyi-0436,10.3.250.115,Windows Server 2022,8,1,1024,Logística,Electrónica,2022,True
+437,srv-tiiu-0437,10.5.180.79,Debian 11,64,2,120,Logística,Hogar,2018,False
+438,srv-ucnx-0438,10.1.28.24,Windows Server 2022,16,16,512,Operaciones,Hogar,2019,False
+439,srv-rbxy-0439,10.3.154.137,Ubuntu 20.04,8,4,1024,Marketing,Hogar,2015,False
+440,srv-dlvv-0440,10.3.196.174,Red Hat 9,16,16,512,Ventas,Deportes,2019,True
+441,srv-thuv-0441,10.5.116.57,Windows Server 2019,2,8,120,Marketing,Hogar,2020,True
+442,srv-zfgl-0442,10.1.101.180,CentOS 8,64,1,1024,Finanzas,Alimentación,2018,True
+443,srv-jkww-0443,10.0.204.232,CentOS 8,4,1,120,Ventas,Hogar,2016,False
+444,srv-pryt-0444,10.3.30.219,Debian 11,2,2,2048,Logística,Deportes,2022,True
+445,srv-wcdz-0445,10.5.55.41,Debian 11,8,2,1024,IT,Alimentación,2018,True
+446,srv-irxf-0446,10.5.161.15,Ubuntu 20.04,2,4,1024,Logística,Hogar,2015,True
+447,srv-uotj-0447,10.1.51.170,Debian 11,64,2,1024,IT,Electrónica,2015,False
+448,srv-vrmq-0448,10.5.224.83,Ubuntu 20.04,2,1,1024,Marketing,Alimentación,2016,True
+449,srv-qwvx-0449,10.4.229.33,Windows Server 2019,2,8,1024,IT,Alimentación,2016,True
+450,srv-hsgr-0450,10.1.180.188,Debian 11,32,4,120,RRHH,Deportes,2020,True
+451,srv-piop-0451,10.3.174.136,CentOS 8,8,2,1024,IT,Electrónica,2018,True
+452,srv-sfwn-0452,10.0.113.185,Debian 11,2,4,512,Logística,Electrónica,2015,True
+453,srv-lfns-0453,10.3.111.166,Windows Server 2019,4,4,512,Finanzas,Deportes,2024,False
+454,srv-ilel-0454,10.5.76.13,Red Hat 9,16,2,512,Logística,Hogar,2024,True
+455,srv-dzzj-0455,10.5.70.143,Windows Server 2022,16,2,512,Logística,Deportes,2019,True
+456,srv-mvjw-0456,10.1.144.38,Red Hat 9,32,8,2048,Marketing,Hogar,2017,True
+457,srv-hkfe-0457,10.4.122.19,Windows Server 2019,4,1,256,IT,Hogar,2015,True
+458,srv-xacz-0458,10.3.124.146,CentOS 8,16,16,1024,Operaciones,Alimentación,2017,True
+459,srv-vaax-0459,10.5.164.193,Red Hat 9,8,1,512,Marketing,Deportes,2019,True
+460,srv-mces-0460,10.0.58.156,Debian 11,4,1,512,Marketing,Hogar,2023,True
+461,srv-kczr-0461,10.5.75.90,Windows Server 2022,32,2,2048,Marketing,Electrónica,2023,True
+462,srv-jlms-0462,10.1.24.58,Windows Server 2019,4,2,256,Operaciones,Deportes,2021,True
+463,srv-zyvf-0463,10.3.232.63,Ubuntu 20.04,64,16,120,Ventas,Electrónica,2015,True
+464,srv-uwtu-0464,10.0.177.183,CentOS 8,2,2,256,Marketing,Deportes,2018,True
+465,srv-xvrb-0465,10.3.183.216,Windows Server 2019,64,2,120,Finanzas,Hogar,2015,True
+466,srv-lrkp-0466,10.4.191.229,Ubuntu 20.04,16,1,1024,Finanzas,Electrónica,2021,True
+467,srv-kpjg-0467,10.1.242.31,Windows Server 2019,4,1,256,IT,Alimentación,2022,True
+468,srv-zeut-0468,10.5.50.97,Windows Server 2019,32,1,2048,Marketing,Deportes,2020,True
+469,srv-bnel-0469,10.3.125.253,Windows Server 2022,2,1,256,RRHH,Hogar,2022,True
+470,srv-frqt-0470,10.2.64.7,Ubuntu 20.04,16,1,512,Finanzas,Deportes,2018,True
+471,srv-fapq-0471,10.5.151.10,Ubuntu 20.04,4,16,512,Ventas,Electrónica,2018,True
+472,srv-teqz-0472,10.2.68.69,Debian 11,64,1,512,Logística,Electrónica,2022,True
+473,srv-bhho-0473,10.4.80.183,Windows Server 2019,2,1,1024,Operaciones,Deportes,2023,True
+474,srv-ykdh-0474,10.3.53.29,Windows Server 2022,4,2,512,Logística,Alimentación,2020,False
+475,srv-iiop-0475,10.2.135.76,Windows Server 2022,2,8,2048,Marketing,Hogar,2015,True
+476,srv-fbzn-0476,10.1.72.145,Red Hat 9,4,1,1024,Ventas,Alimentación,2020,True
+477,srv-dtex-0477,10.2.139.198,Ubuntu 20.04,16,4,120,Finanzas,Electrónica,2021,True
+478,srv-aapb-0478,10.4.169.238,CentOS 8,4,16,120,IT,Hogar,2020,True
+479,srv-osyb-0479,10.3.93.164,Windows Server 2022,2,4,2048,Logística,Electrónica,2023,False
+480,srv-pddu-0480,10.2.193.38,Ubuntu 20.04,8,8,512,Logística,Alimentación,2024,False
+481,srv-xbtv-0481,10.3.252.141,Ubuntu 20.04,32,16,1024,RRHH,Alimentación,2023,True
+482,srv-qkvi-0482,10.2.215.189,Ubuntu 22.04,64,4,2048,RRHH,Electrónica,2024,True
+483,srv-nymx-0483,10.3.182.214,Windows Server 2019,8,4,512,Finanzas,Alimentación,2017,True
+484,srv-vxxg-0484,10.0.236.197,Windows Server 2019,2,8,256,RRHH,Electrónica,2018,False
+485,srv-ugpu-0485,10.3.69.34,Ubuntu 20.04,16,16,1024,Marketing,Hogar,2024,False
+486,srv-evlb-0486,10.5.198.55,Debian 11,32,16,256,Marketing,Deportes,2022,True
+487,srv-ffnk-0487,10.2.8.137,CentOS 8,4,8,512,Logística,Alimentación,2019,False
+488,srv-lhco-0488,10.5.81.110,Windows Server 2022,16,2,512,Operaciones,Electrónica,2022,True
+489,srv-xijj-0489,10.3.37.113,CentOS 8,2,2,120,Finanzas,Hogar,2020,True
+490,srv-odzf-0490,10.5.104.78,Windows Server 2019,32,16,1024,Marketing,Alimentación,2024,True
+491,srv-buhs-0491,10.4.244.107,Ubuntu 22.04,64,8,2048,IT,Alimentación,2021,True
+492,srv-dfoc-0492,10.0.117.169,Windows Server 2019,16,4,512,Operaciones,Hogar,2024,True
+493,srv-eiyd-0493,10.4.123.247,Windows Server 2022,4,16,256,Logística,Hogar,2021,True
+494,srv-obtn-0494,10.1.246.125,Windows Server 2022,8,8,2048,IT,Alimentación,2021,False
+495,srv-fvct-0495,10.4.130.109,Debian 11,32,16,2048,Finanzas,Deportes,2020,True
+496,srv-nsbr-0496,10.3.171.126,Debian 11,16,8,2048,Ventas,Deportes,2024,True
+497,srv-qfre-0497,10.3.27.159,Windows Server 2019,32,4,2048,Operaciones,Hogar,2017,False
+498,srv-uybb-0498,10.5.32.84,Windows Server 2022,16,4,256,RRHH,Electrónica,2021,True
+499,srv-qnve-0499,10.5.9.9,CentOS 8,64,8,1024,RRHH,Alimentación,2019,True
+500,srv-brkn-0500,10.3.119.189,Ubuntu 22.04,8,16,512,Operaciones,Hogar,2023,True
+501,srv-dupp-0501,10.5.2.253,Windows Server 2022,4,2,512,Operaciones,Electrónica,2020,True
+502,srv-qkld-0502,10.3.151.42,Debian 11,64,1,512,Marketing,Electrónica,2019,True
+503,srv-fcla-0503,10.1.241.183,Windows Server 2019,8,2,512,Logística,Hogar,2024,True
+504,srv-xnao-0504,10.5.71.24,Ubuntu 20.04,64,8,1024,RRHH,Hogar,2023,False
+505,srv-ikkv-0505,10.4.187.155,Ubuntu 22.04,8,4,1024,IT,Hogar,2023,False
+506,srv-alcu-0506,10.4.130.198,Ubuntu 20.04,16,2,2048,RRHH,Hogar,2017,True
+507,srv-fxoe-0507,10.0.236.11,Red Hat 9,2,2,256,Operaciones,Alimentación,2015,True
+508,srv-xxza-0508,10.1.132.116,Red Hat 9,32,1,120,Logística,Deportes,2016,False
+509,srv-ycou-0509,10.1.144.55,CentOS 8,4,1,120,Logística,Deportes,2020,True
+510,srv-tycn-0510,10.1.71.36,Ubuntu 20.04,64,8,120,Ventas,Electrónica,2022,False
+511,srv-dzzj-0511,10.0.239.63,Windows Server 2022,8,8,1024,Ventas,Electrónica,2016,True
+512,srv-wdja-0512,10.0.42.69,Windows Server 2019,64,4,2048,Finanzas,Alimentación,2015,True
+513,srv-ofxx-0513,10.5.189.37,Ubuntu 20.04,8,1,2048,Operaciones,Alimentación,2018,True
+514,srv-lfpp-0514,10.2.168.135,Debian 11,8,2,120,RRHH,Deportes,2024,True
+515,srv-yjmv-0515,10.5.208.176,Ubuntu 22.04,4,2,1024,Finanzas,Hogar,2023,True
+516,srv-kbfy-0516,10.4.121.226,Debian 11,16,4,120,Finanzas,Electrónica,2024,True
+517,srv-hkdv-0517,10.1.151.38,Ubuntu 22.04,8,2,512,Ventas,Alimentación,2015,True
+518,srv-jmhn-0518,10.5.67.43,Windows Server 2019,4,4,120,RRHH,Electrónica,2019,True
+519,srv-erpg-0519,10.4.236.179,Ubuntu 22.04,16,16,1024,IT,Electrónica,2016,False
+520,srv-goxm-0520,10.1.183.166,Debian 11,2,2,1024,Ventas,Deportes,2017,True
+521,srv-lnbt-0521,10.5.241.139,Windows Server 2019,8,4,1024,Ventas,Hogar,2024,False
+522,srv-rzsb-0522,10.5.1.63,Ubuntu 20.04,32,1,1024,Finanzas,Alimentación,2018,True
+523,srv-muia-0523,10.3.180.131,Ubuntu 20.04,16,2,120,RRHH,Alimentación,2021,True
+524,srv-xqpr-0524,10.1.129.197,Debian 11,64,16,1024,RRHH,Hogar,2019,True
+525,srv-uszu-0525,10.1.240.15,Windows Server 2022,2,4,1024,Ventas,Hogar,2016,True
+526,srv-nrox-0526,10.0.72.193,Ubuntu 22.04,32,2,120,Marketing,Deportes,2021,True
+527,srv-fxmj-0527,10.5.147.168,Ubuntu 20.04,2,4,120,RRHH,Alimentación,2023,True
+528,srv-uuoy-0528,10.4.101.224,CentOS 8,4,2,512,Logística,Deportes,2022,True
+529,srv-fgkv-0529,10.1.201.168,Windows Server 2022,16,8,2048,IT,Alimentación,2021,True
+530,srv-sdtr-0530,10.4.245.113,Red Hat 9,2,16,2048,Ventas,Electrónica,2024,False
+531,srv-ueaa-0531,10.4.81.5,Ubuntu 22.04,64,4,2048,Finanzas,Deportes,2021,False
+532,srv-xavj-0532,10.2.239.14,Red Hat 9,2,2,1024,Ventas,Alimentación,2024,True
+533,srv-hdaj-0533,10.4.139.161,Debian 11,4,4,120,Finanzas,Electrónica,2022,True
+534,srv-glpu-0534,10.1.35.204,Windows Server 2019,32,4,2048,Logística,Electrónica,2022,False
+535,srv-kaej-0535,10.2.221.137,CentOS 8,64,4,1024,RRHH,Alimentación,2022,True
+536,srv-vsmw-0536,10.3.2.39,CentOS 8,16,16,120,Marketing,Alimentación,2016,False
+537,srv-psgj-0537,10.5.6.228,Ubuntu 22.04,2,1,120,Finanzas,Electrónica,2017,True
+538,srv-abmp-0538,10.5.15.111,CentOS 8,2,4,1024,Ventas,Alimentación,2022,False
+539,srv-mkes-0539,10.2.121.217,Red Hat 9,64,2,1024,Marketing,Hogar,2017,True
+540,srv-rydn-0540,10.0.237.180,Ubuntu 22.04,32,2,2048,Finanzas,Hogar,2017,True
+541,srv-qddq-0541,10.0.245.225,Windows Server 2019,16,4,1024,Logística,Deportes,2024,False
+542,srv-chfk-0542,10.5.87.222,Ubuntu 22.04,2,8,2048,Finanzas,Hogar,2018,True
+543,srv-aufw-0543,10.2.87.107,CentOS 8,32,1,256,Finanzas,Hogar,2021,True
+544,srv-svrn-0544,10.5.227.18,Windows Server 2022,16,16,512,IT,Alimentación,2020,False
+545,srv-ipkf-0545,10.1.179.109,Ubuntu 22.04,16,2,120,Operaciones,Electrónica,2016,True
+546,srv-jvuv-0546,10.0.44.175,Ubuntu 20.04,2,16,512,Logística,Alimentación,2018,True
+547,srv-bybn-0547,10.0.183.6,Windows Server 2019,32,16,120,Operaciones,Electrónica,2023,True
+548,srv-rszz-0548,10.4.105.196,Ubuntu 20.04,8,2,256,Marketing,Deportes,2020,True
+549,srv-dsmx-0549,10.5.114.242,Windows Server 2022,4,1,120,Operaciones,Hogar,2022,True
+550,srv-guus-0550,10.4.85.170,Ubuntu 22.04,64,16,2048,RRHH,Deportes,2016,True
+551,srv-dhib-0551,10.0.138.143,Ubuntu 20.04,2,2,2048,Operaciones,Electrónica,2018,True
+552,srv-sidr-0552,10.3.218.153,Ubuntu 20.04,32,4,120,IT,Alimentación,2020,True
+553,srv-ynbx-0553,10.5.43.167,Debian 11,8,16,2048,RRHH,Hogar,2018,True
+554,srv-meor-0554,10.3.149.20,Red Hat 9,16,8,120,Ventas,Hogar,2024,False
+555,srv-qokg-0555,10.2.178.139,Red Hat 9,8,8,2048,Marketing,Hogar,2022,False
+556,srv-ewns-0556,10.5.34.118,Red Hat 9,32,4,256,Logística,Electrónica,2024,True
+557,srv-oyrh-0557,10.2.42.156,CentOS 8,8,8,2048,RRHH,Hogar,2018,False
+558,srv-vieb-0558,10.2.156.190,Windows Server 2019,32,8,256,RRHH,Electrónica,2021,True
+559,srv-wsxh-0559,10.3.208.173,Windows Server 2022,8,1,120,Operaciones,Electrónica,2019,True
+560,srv-egrv-0560,10.0.180.10,Red Hat 9,64,2,120,Marketing,Deportes,2016,True
+561,srv-nhtq-0561,10.5.95.194,Windows Server 2019,64,2,512,Operaciones,Deportes,2021,False
+562,srv-tjpo-0562,10.0.193.223,Windows Server 2022,8,2,2048,Ventas,Deportes,2023,True
+563,srv-akwg-0563,10.5.153.50,Ubuntu 20.04,16,2,120,Finanzas,Electrónica,2021,True
+564,srv-lzfr-0564,10.5.77.149,Ubuntu 20.04,64,1,120,IT,Deportes,2016,True
+565,srv-htet-0565,10.4.183.163,Debian 11,8,16,512,IT,Deportes,2019,True
+566,srv-ujay-0566,10.4.242.189,Red Hat 9,32,2,512,RRHH,Deportes,2017,True
+567,srv-vega-0567,10.5.36.203,Windows Server 2019,16,16,256,Logística,Electrónica,2024,False
+568,srv-mnva-0568,10.0.244.116,Red Hat 9,64,4,512,IT,Deportes,2019,True
+569,srv-gtzy-0569,10.4.225.193,CentOS 8,2,4,120,Logística,Deportes,2015,False
+570,srv-haqc-0570,10.4.128.224,Windows Server 2019,4,8,1024,Marketing,Alimentación,2022,True
+571,srv-tdgu-0571,10.4.98.104,Ubuntu 22.04,16,2,2048,Logística,Alimentación,2023,True
+572,srv-itci-0572,10.4.191.101,Windows Server 2019,2,1,2048,Logística,Alimentación,2021,True
+573,srv-wnyy-0573,10.0.231.248,Ubuntu 22.04,4,8,256,RRHH,Hogar,2017,True
+574,srv-tbfl-0574,10.0.234.46,Windows Server 2019,16,2,1024,RRHH,Alimentación,2020,True
+575,srv-lvtm-0575,10.4.219.27,Red Hat 9,8,4,120,Ventas,Electrónica,2021,True
+576,srv-hoqb-0576,10.0.48.190,Windows Server 2022,32,8,256,IT,Deportes,2020,True
+577,srv-dpkf-0577,10.0.187.189,Ubuntu 20.04,8,1,1024,Operaciones,Alimentación,2021,True
+578,srv-ffzd-0578,10.1.171.39,Ubuntu 20.04,64,1,256,Operaciones,Alimentación,2023,True
+579,srv-uqqh-0579,10.5.112.111,Ubuntu 20.04,8,4,120,Marketing,Alimentación,2019,True
+580,srv-ctrk-0580,10.5.181.53,Windows Server 2022,2,8,2048,Marketing,Deportes,2018,True
+581,srv-rrwl-0581,10.0.162.197,Ubuntu 22.04,32,16,1024,Logística,Alimentación,2024,True
+582,srv-xock-0582,10.1.42.230,Ubuntu 20.04,64,4,120,Logística,Deportes,2020,True
+583,srv-uukp-0583,10.5.24.52,Debian 11,8,1,120,Ventas,Deportes,2016,True
+584,srv-uowr-0584,10.4.41.177,Red Hat 9,8,16,120,Logística,Electrónica,2015,False
+585,srv-sigm-0585,10.4.240.244,Debian 11,2,4,256,RRHH,Deportes,2017,False
+586,srv-ropn-0586,10.5.112.8,Windows Server 2019,2,4,2048,Ventas,Alimentación,2023,True
+587,srv-wzeo-0587,10.4.37.190,CentOS 8,64,4,512,Finanzas,Alimentación,2024,True
+588,srv-omoi-0588,10.4.92.148,Windows Server 2022,8,1,256,IT,Alimentación,2018,False
+589,srv-zktq-0589,10.5.38.47,Debian 11,64,16,256,Logística,Deportes,2023,False
+590,srv-yqqr-0590,10.2.172.12,Windows Server 2022,16,16,2048,IT,Hogar,2024,False
+591,srv-lxcw-0591,10.1.178.54,CentOS 8,32,16,1024,Marketing,Alimentación,2015,True
+592,srv-ucbc-0592,10.2.174.228,Windows Server 2019,16,8,256,IT,Hogar,2023,False
+593,srv-sgsy-0593,10.2.26.46,Ubuntu 22.04,16,1,120,Logística,Hogar,2020,True
+594,srv-vdlz-0594,10.4.78.189,Ubuntu 22.04,64,8,512,Marketing,Deportes,2017,False
+595,srv-itwr-0595,10.2.110.242,Ubuntu 20.04,32,4,2048,RRHH,Hogar,2024,True
+596,srv-kbcg-0596,10.0.100.17,Debian 11,16,2,2048,Operaciones,Electrónica,2024,True
+597,srv-npey-0597,10.3.221.19,Windows Server 2019,4,4,1024,RRHH,Electrónica,2024,True
+598,srv-mmua-0598,10.0.29.81,Ubuntu 22.04,2,8,256,IT,Hogar,2023,False
+599,srv-bpgj-0599,10.3.209.193,Red Hat 9,16,8,1024,Marketing,Deportes,2017,False
+600,srv-pcer-0600,10.3.28.120,Debian 11,32,2,120,IT,Electrónica,2016,True
+601,srv-pxli-0601,10.4.129.136,Windows Server 2022,4,4,512,RRHH,Hogar,2021,True
+602,srv-qzpp-0602,10.3.155.153,Windows Server 2022,64,4,120,Marketing,Alimentación,2021,False
+603,srv-lzxs-0603,10.0.131.68,Debian 11,4,1,256,RRHH,Electrónica,2015,False
+604,srv-lavb-0604,10.2.231.72,Ubuntu 20.04,32,8,120,Marketing,Hogar,2021,False
+605,srv-pmzh-0605,10.2.215.44,Windows Server 2022,8,8,256,IT,Deportes,2024,True
+606,srv-recs-0606,10.0.132.126,Windows Server 2022,4,16,120,Operaciones,Alimentación,2016,True
+607,srv-tguc-0607,10.2.244.114,Windows Server 2019,4,1,120,IT,Alimentación,2023,False
+608,srv-gukz-0608,10.1.192.6,Ubuntu 22.04,32,1,120,Marketing,Deportes,2024,True
+609,srv-dqts-0609,10.2.20.156,Ubuntu 20.04,32,4,120,IT,Deportes,2020,True
+610,srv-zpwl-0610,10.0.161.236,Ubuntu 20.04,64,1,512,Finanzas,Hogar,2016,True
+611,srv-kake-0611,10.2.196.136,Windows Server 2019,8,8,120,RRHH,Hogar,2021,True
+612,srv-btsz-0612,10.4.184.106,Windows Server 2022,16,2,1024,Marketing,Hogar,2018,False
+613,srv-june-0613,10.3.215.56,Ubuntu 22.04,2,4,256,Marketing,Electrónica,2015,True
+614,srv-qmhq-0614,10.2.7.47,Ubuntu 20.04,32,2,256,RRHH,Hogar,2024,True
+615,srv-ufqt-0615,10.2.174.223,Ubuntu 22.04,16,4,256,Logística,Alimentación,2017,True
+616,srv-hofd-0616,10.0.205.99,Ubuntu 20.04,8,2,256,Operaciones,Deportes,2015,True
+617,srv-wuvx-0617,10.1.192.54,CentOS 8,8,1,1024,IT,Deportes,2024,True
+618,srv-wazl-0618,10.2.124.187,Red Hat 9,64,8,256,Ventas,Hogar,2020,False
+619,srv-frar-0619,10.1.7.251,Red Hat 9,8,4,256,Logística,Deportes,2015,True
+620,srv-piyn-0620,10.5.78.34,Red Hat 9,8,1,256,Operaciones,Electrónica,2019,False
+621,srv-rhzn-0621,10.3.188.118,Ubuntu 22.04,4,1,120,Finanzas,Hogar,2023,True
+622,srv-zfrx-0622,10.5.205.230,CentOS 8,16,16,120,Finanzas,Hogar,2019,True
+623,srv-ljcn-0623,10.3.230.49,Windows Server 2022,32,1,512,Operaciones,Electrónica,2023,True
+624,srv-fljs-0624,10.3.172.105,Windows Server 2022,16,4,512,Operaciones,Hogar,2015,True
+625,srv-ntzy-0625,10.5.160.205,Ubuntu 22.04,4,2,512,Operaciones,Electrónica,2021,True
+626,srv-egxx-0626,10.4.166.186,Debian 11,2,1,256,Marketing,Hogar,2016,True
+627,srv-bdqp-0627,10.2.153.152,Ubuntu 22.04,2,2,512,Ventas,Electrónica,2021,False
+628,srv-ocsi-0628,10.0.227.111,CentOS 8,32,8,2048,Marketing,Electrónica,2024,True
+629,srv-sbyw-0629,10.5.20.151,Ubuntu 22.04,16,1,120,Finanzas,Alimentación,2016,True
+630,srv-myxc-0630,10.4.191.218,Ubuntu 20.04,2,2,120,Finanzas,Deportes,2019,True
+631,srv-cncy-0631,10.5.89.222,CentOS 8,2,8,512,Logística,Deportes,2015,False
+632,srv-dumk-0632,10.0.118.221,CentOS 8,2,8,256,Finanzas,Electrónica,2024,False
+633,srv-gqgq-0633,10.0.147.144,Windows Server 2019,8,16,2048,Operaciones,Electrónica,2023,True
+634,srv-uiqb-0634,10.0.205.197,Ubuntu 22.04,8,16,1024,Logística,Electrónica,2020,True
+635,srv-zyix-0635,10.1.57.235,Debian 11,64,8,256,IT,Deportes,2017,True
+636,srv-ustf-0636,10.2.220.39,Windows Server 2019,16,1,256,Finanzas,Deportes,2017,True
+637,srv-oion-0637,10.1.217.60,Ubuntu 22.04,8,8,1024,RRHH,Hogar,2020,True
+638,srv-rwix-0638,10.2.105.1,Red Hat 9,8,4,256,IT,Deportes,2022,True
+639,srv-ysbs-0639,10.5.150.1,Ubuntu 22.04,8,4,120,Ventas,Electrónica,2019,True
+640,srv-vqnb-0640,10.5.243.184,Windows Server 2022,8,4,120,RRHH,Alimentación,2023,True
+641,srv-iaac-0641,10.3.66.212,Windows Server 2019,8,1,1024,Ventas,Deportes,2018,True
+642,srv-sjfa-0642,10.5.223.245,Red Hat 9,2,8,2048,RRHH,Electrónica,2023,True
+643,srv-qmuk-0643,10.3.117.134,Red Hat 9,8,16,512,IT,Deportes,2019,True
+644,srv-tqsp-0644,10.0.101.223,Windows Server 2022,2,16,2048,Ventas,Alimentación,2022,True
+645,srv-rwdh-0645,10.5.30.168,Windows Server 2022,32,8,512,Logística,Alimentación,2023,True
+646,srv-agwy-0646,10.0.186.158,Ubuntu 20.04,4,8,1024,IT,Electrónica,2018,True
+647,srv-zivf-0647,10.3.233.209,CentOS 8,2,16,1024,Finanzas,Alimentación,2019,False
+648,srv-ytdk-0648,10.4.241.184,Windows Server 2022,32,2,512,Ventas,Hogar,2023,True
+649,srv-zsok-0649,10.3.134.103,Ubuntu 20.04,8,1,120,Marketing,Hogar,2023,True
+650,srv-iigx-0650,10.4.67.188,Windows Server 2022,16,4,2048,Marketing,Alimentación,2015,True
+651,srv-dpsq-0651,10.2.145.95,CentOS 8,8,4,2048,Operaciones,Alimentación,2015,False
+652,srv-faxo-0652,10.3.72.113,Debian 11,64,2,1024,Marketing,Alimentación,2021,True
+653,srv-ywqs-0653,10.2.29.177,CentOS 8,32,1,256,Operaciones,Electrónica,2019,False
+654,srv-xnxc-0654,10.3.112.20,Debian 11,64,1,256,RRHH,Deportes,2019,False
+655,srv-uttd-0655,10.3.157.229,Debian 11,4,1,1024,Logística,Electrónica,2022,True
+656,srv-zets-0656,10.5.154.179,CentOS 8,2,16,1024,RRHH,Deportes,2021,True
+657,srv-fhwc-0657,10.0.160.125,Ubuntu 22.04,4,1,256,Logística,Electrónica,2023,True
+658,srv-gbyw-0658,10.1.184.105,Ubuntu 20.04,8,16,256,Ventas,Hogar,2021,True
+659,srv-gmvy-0659,10.2.52.11,Windows Server 2022,2,2,256,Marketing,Deportes,2023,True
+660,srv-msob-0660,10.5.54.235,Red Hat 9,8,16,2048,Ventas,Electrónica,2016,True
+661,srv-bbgu-0661,10.0.83.150,Windows Server 2022,8,1,2048,Marketing,Deportes,2022,False
+662,srv-hdty-0662,10.3.3.136,Debian 11,64,4,512,Ventas,Electrónica,2015,True
+663,srv-yimz-0663,10.3.93.100,Windows Server 2022,4,1,1024,Ventas,Hogar,2021,True
+664,srv-gmey-0664,10.3.76.253,Windows Server 2022,32,8,120,Logística,Hogar,2015,True
+665,srv-tbpi-0665,10.4.117.180,Windows Server 2022,4,1,512,RRHH,Hogar,2022,True
+666,srv-zsub-0666,10.4.135.93,Ubuntu 22.04,16,16,2048,IT,Alimentación,2016,True
+667,srv-zhnj-0667,10.2.163.202,Windows Server 2019,2,8,512,Marketing,Alimentación,2020,True
+668,srv-hfxz-0668,10.5.11.134,Ubuntu 22.04,8,8,512,RRHH,Electrónica,2020,True
+669,srv-makj-0669,10.1.133.26,Ubuntu 22.04,64,2,512,Logística,Hogar,2016,True
+670,srv-udtd-0670,10.1.227.19,Windows Server 2022,16,8,120,Logística,Alimentación,2019,False
+671,srv-njhi-0671,10.3.204.66,Windows Server 2022,32,8,256,Marketing,Deportes,2018,True
+672,srv-oqfc-0672,10.4.36.150,Windows Server 2022,2,16,1024,Ventas,Electrónica,2019,True
+673,srv-bako-0673,10.3.192.66,Debian 11,4,16,1024,IT,Electrónica,2017,True
+674,srv-agpv-0674,10.2.122.29,Ubuntu 20.04,32,4,256,Ventas,Hogar,2024,True
+675,srv-losv-0675,10.0.17.98,CentOS 8,16,8,2048,Operaciones,Hogar,2021,True
+676,srv-vbxv-0676,10.4.70.133,Debian 11,64,1,2048,RRHH,Electrónica,2023,True
+677,srv-odcz-0677,10.5.83.55,CentOS 8,8,4,256,Operaciones,Hogar,2016,False
+678,srv-vpjw-0678,10.1.189.112,Red Hat 9,4,4,256,IT,Alimentación,2024,True
+679,srv-zmdk-0679,10.1.135.244,Windows Server 2019,4,2,1024,Finanzas,Deportes,2019,True
+680,srv-irwe-0680,10.2.81.105,CentOS 8,16,16,512,RRHH,Deportes,2024,True
+681,srv-usst-0681,10.4.141.171,Ubuntu 20.04,64,16,2048,Marketing,Electrónica,2015,True
+682,srv-vswa-0682,10.1.80.86,Ubuntu 22.04,4,2,2048,RRHH,Alimentación,2016,False
+683,srv-gzhy-0683,10.2.21.20,Windows Server 2022,32,2,2048,Logística,Electrónica,2018,True
+684,srv-sgzx-0684,10.3.83.122,Ubuntu 22.04,64,8,256,Logística,Deportes,2020,True
+685,srv-tseh-0685,10.0.90.182,Debian 11,32,16,512,RRHH,Electrónica,2021,True
+686,srv-ezwj-0686,10.5.171.73,Windows Server 2022,64,16,1024,Finanzas,Deportes,2021,True
+687,srv-vzti-0687,10.1.185.163,Red Hat 9,64,8,256,Logística,Deportes,2020,True
+688,srv-lxep-0688,10.2.7.89,CentOS 8,8,4,1024,IT,Hogar,2018,False
+689,srv-oqwe-0689,10.4.56.101,CentOS 8,16,8,1024,Marketing,Alimentación,2020,True
+690,srv-yput-0690,10.0.61.176,Debian 11,64,8,1024,Marketing,Electrónica,2018,True
+691,srv-pean-0691,10.3.186.193,Ubuntu 20.04,8,16,512,Marketing,Electrónica,2023,True
+692,srv-limx-0692,10.5.46.100,CentOS 8,8,1,512,Finanzas,Electrónica,2015,True
+693,srv-onye-0693,10.0.159.62,Windows Server 2022,16,4,2048,Ventas,Electrónica,2022,True
+694,srv-pfjw-0694,10.2.10.7,Ubuntu 22.04,8,1,256,Finanzas,Electrónica,2018,True
+695,srv-zfvs-0695,10.5.168.84,Ubuntu 22.04,2,1,2048,IT,Alimentación,2018,True
+696,srv-ywih-0696,10.1.172.153,Ubuntu 22.04,32,1,512,IT,Electrónica,2023,True
+697,srv-qvoi-0697,10.2.92.203,CentOS 8,4,4,256,Ventas,Electrónica,2021,True
+698,srv-fqvc-0698,10.5.92.21,CentOS 8,4,4,1024,Logística,Alimentación,2015,True
+699,srv-eigi-0699,10.0.81.84,CentOS 8,2,2,1024,Finanzas,Deportes,2015,True
+700,srv-zyfd-0700,10.3.227.211,CentOS 8,64,4,2048,RRHH,Alimentación,2017,True
+701,srv-abny-0701,10.3.75.150,Debian 11,16,16,1024,Marketing,Alimentación,2018,True
+702,srv-drgr-0702,10.1.167.19,Windows Server 2019,32,1,256,Finanzas,Alimentación,2019,True
+703,srv-xpye-0703,10.3.41.187,Windows Server 2019,16,4,2048,Ventas,Electrónica,2017,True
+704,srv-rnmu-0704,10.0.169.43,Debian 11,4,1,256,Logística,Hogar,2020,True
+705,srv-wngg-0705,10.1.29.165,CentOS 8,16,8,256,Logística,Electrónica,2018,True
+706,srv-nkql-0706,10.1.112.78,Debian 11,2,16,512,IT,Alimentación,2019,True
+707,srv-kqry-0707,10.0.67.105,Windows Server 2019,4,2,120,Ventas,Alimentación,2022,True
+708,srv-muhl-0708,10.4.224.76,Red Hat 9,64,8,120,Logística,Deportes,2015,True
+709,srv-wdnf-0709,10.1.225.156,Windows Server 2019,32,16,256,IT,Hogar,2024,True
+710,srv-nuig-0710,10.4.146.125,Windows Server 2019,8,1,120,RRHH,Deportes,2023,False
+711,srv-xsfu-0711,10.0.152.183,Red Hat 9,8,4,2048,Ventas,Deportes,2015,False
+712,srv-pcdv-0712,10.1.94.139,Windows Server 2019,4,2,256,Ventas,Deportes,2024,True
+713,srv-oxrz-0713,10.4.105.246,Ubuntu 22.04,8,16,2048,RRHH,Electrónica,2016,False
+714,srv-kayo-0714,10.2.71.215,Ubuntu 22.04,64,4,1024,Logística,Deportes,2024,True
+715,srv-hjvy-0715,10.3.72.74,Red Hat 9,16,1,512,Logística,Deportes,2023,True
+716,srv-kgba-0716,10.1.136.72,Ubuntu 20.04,2,2,256,Ventas,Deportes,2016,True
+717,srv-xcoq-0717,10.0.124.188,Ubuntu 22.04,16,8,256,Ventas,Electrónica,2020,True
+718,srv-jlwo-0718,10.1.229.7,Windows Server 2022,4,8,120,IT,Electrónica,2019,True
+719,srv-nxng-0719,10.5.79.243,Red Hat 9,64,2,256,Finanzas,Alimentación,2021,False
+720,srv-zxhq-0720,10.5.166.243,Debian 11,2,8,2048,Marketing,Hogar,2023,False
+721,srv-umld-0721,10.3.121.66,Debian 11,8,1,2048,Logística,Electrónica,2015,False
+722,srv-runi-0722,10.0.202.71,Ubuntu 20.04,4,8,256,Marketing,Alimentación,2015,True
+723,srv-kjrq-0723,10.5.41.120,Red Hat 9,2,1,1024,Ventas,Electrónica,2023,True
+724,srv-thyp-0724,10.3.168.121,Windows Server 2019,16,2,512,Ventas,Hogar,2015,False
+725,srv-asmw-0725,10.1.161.209,Ubuntu 20.04,16,8,512,Finanzas,Deportes,2021,True
+726,srv-jtyw-0726,10.1.242.162,Ubuntu 20.04,64,16,512,IT,Deportes,2023,True
+727,srv-ejih-0727,10.3.42.241,CentOS 8,2,16,1024,Operaciones,Hogar,2023,False
+728,srv-gbkg-0728,10.3.196.216,Ubuntu 20.04,64,2,120,Operaciones,Hogar,2015,True
+729,srv-wbhq-0729,10.3.78.101,CentOS 8,8,4,512,RRHH,Deportes,2019,True
+730,srv-mrnk-0730,10.3.22.244,CentOS 8,64,1,256,Logística,Electrónica,2024,False
+731,srv-wzli-0731,10.3.169.180,Ubuntu 20.04,4,8,256,IT,Electrónica,2024,True
+732,srv-edoe-0732,10.4.212.114,Windows Server 2019,8,2,1024,Ventas,Electrónica,2022,True
+733,srv-wpee-0733,10.1.140.28,Ubuntu 22.04,2,8,256,Logística,Electrónica,2023,True
+734,srv-nnon-0734,10.5.91.46,Debian 11,4,1,120,Marketing,Hogar,2019,True
+735,srv-ipgz-0735,10.1.195.62,Ubuntu 22.04,4,8,120,Marketing,Electrónica,2023,True
+736,srv-bwhv-0736,10.5.26.30,CentOS 8,64,8,120,Marketing,Deportes,2015,True
+737,srv-mkch-0737,10.0.152.43,Windows Server 2019,2,4,1024,Marketing,Deportes,2024,False
+738,srv-opjo-0738,10.5.85.169,Windows Server 2022,16,1,120,Logística,Electrónica,2018,True
+739,srv-xtet-0739,10.0.234.146,Red Hat 9,8,8,256,RRHH,Hogar,2021,True
+740,srv-ifmk-0740,10.3.196.99,Ubuntu 22.04,2,8,2048,Operaciones,Hogar,2019,False
+741,srv-trws-0741,10.2.42.41,CentOS 8,64,1,256,Finanzas,Deportes,2015,True
+742,srv-swqh-0742,10.1.8.34,Windows Server 2019,16,16,256,Finanzas,Alimentación,2019,True
+743,srv-uxov-0743,10.0.96.161,Windows Server 2022,32,16,1024,Logística,Alimentación,2022,True
+744,srv-nlbq-0744,10.4.74.149,Windows Server 2019,2,8,2048,Logística,Electrónica,2017,False
+745,srv-vbyz-0745,10.0.92.9,Windows Server 2022,4,1,2048,RRHH,Alimentación,2021,True
+746,srv-gqxv-0746,10.3.101.154,CentOS 8,64,8,120,Operaciones,Hogar,2021,True
+747,srv-mryv-0747,10.1.82.194,Windows Server 2022,32,1,2048,Marketing,Deportes,2021,True
+748,srv-medd-0748,10.5.32.25,Ubuntu 20.04,32,16,256,Finanzas,Alimentación,2017,True
+749,srv-tiox-0749,10.3.94.26,Debian 11,4,16,512,RRHH,Electrónica,2018,True
+750,srv-doeb-0750,10.2.110.163,Windows Server 2019,32,16,1024,Ventas,Hogar,2016,True
+751,srv-clkf-0751,10.1.253.153,Ubuntu 20.04,4,1,256,Finanzas,Electrónica,2022,False
+752,srv-ckpl-0752,10.2.60.44,Red Hat 9,2,2,1024,Ventas,Deportes,2017,False
+753,srv-cavj-0753,10.0.97.204,Ubuntu 20.04,64,8,1024,Ventas,Deportes,2022,False
+754,srv-vgwe-0754,10.5.249.183,CentOS 8,16,4,512,Operaciones,Electrónica,2024,True
+755,srv-sams-0755,10.5.203.58,Ubuntu 20.04,2,8,2048,RRHH,Alimentación,2019,True
+756,srv-suiy-0756,10.2.19.209,Ubuntu 22.04,16,4,1024,Finanzas,Alimentación,2023,False
+757,srv-lpnp-0757,10.2.68.55,Red Hat 9,32,8,120,IT,Electrónica,2020,True
+758,srv-vyex-0758,10.5.139.130,Ubuntu 22.04,4,1,1024,Finanzas,Deportes,2021,False
+759,srv-ezvb-0759,10.4.241.243,Windows Server 2019,16,4,512,RRHH,Deportes,2022,True
+760,srv-arcp-0760,10.2.249.89,CentOS 8,4,2,256,Finanzas,Alimentación,2016,True
+761,srv-ucot-0761,10.2.139.104,Ubuntu 22.04,32,4,120,Ventas,Hogar,2023,True
+762,srv-kgdv-0762,10.3.91.167,Windows Server 2022,32,1,2048,RRHH,Alimentación,2022,True
+763,srv-sgcd-0763,10.2.173.175,Windows Server 2019,16,8,512,Operaciones,Alimentación,2021,False
+764,srv-ayiw-0764,10.2.216.248,Ubuntu 20.04,2,2,120,Finanzas,Alimentación,2023,True
+765,srv-itef-0765,10.3.108.59,Ubuntu 22.04,2,16,256,Finanzas,Electrónica,2022,True
+766,srv-lpdk-0766,10.0.137.222,Windows Server 2019,16,16,1024,IT,Hogar,2023,True
+767,srv-bphq-0767,10.1.132.192,Windows Server 2022,4,2,256,IT,Deportes,2024,False
+768,srv-lkdc-0768,10.0.225.117,Windows Server 2022,4,8,1024,RRHH,Alimentación,2016,True
+769,srv-oiqs-0769,10.1.68.81,Red Hat 9,8,4,512,Logística,Deportes,2020,False
+770,srv-pwdq-0770,10.1.243.236,Ubuntu 22.04,16,16,1024,Ventas,Hogar,2019,True
+771,srv-gjoz-0771,10.5.204.98,Debian 11,4,8,1024,RRHH,Alimentación,2019,True
+772,srv-xtbv-0772,10.2.37.226,Red Hat 9,16,2,512,Ventas,Electrónica,2023,True
+773,srv-vmyb-0773,10.0.22.50,Windows Server 2022,16,8,2048,Marketing,Alimentación,2024,True
+774,srv-pjdn-0774,10.2.85.197,Debian 11,2,4,1024,Finanzas,Electrónica,2016,True
+775,srv-ipyj-0775,10.3.21.246,Debian 11,32,8,256,Logística,Hogar,2024,True
+776,srv-pwhy-0776,10.0.17.221,Windows Server 2022,4,2,1024,Operaciones,Deportes,2023,True
+777,srv-ucgy-0777,10.4.206.148,Ubuntu 20.04,4,8,120,Operaciones,Alimentación,2022,True
+778,srv-dkyn-0778,10.2.194.180,Windows Server 2022,4,4,1024,Operaciones,Alimentación,2023,True
+779,srv-ixem-0779,10.2.111.254,Debian 11,64,1,2048,Ventas,Deportes,2016,False
+780,srv-ypwd-0780,10.4.72.70,Debian 11,8,4,120,IT,Electrónica,2020,True
+781,srv-xadj-0781,10.2.250.94,Red Hat 9,32,16,120,Logística,Electrónica,2015,False
+782,srv-eolw-0782,10.5.101.98,Red Hat 9,64,16,1024,IT,Hogar,2024,True
+783,srv-nhuf-0783,10.5.52.227,CentOS 8,2,2,512,RRHH,Hogar,2021,True
+784,srv-idzp-0784,10.3.196.220,Ubuntu 20.04,8,1,256,Marketing,Electrónica,2020,True
+785,srv-evfz-0785,10.4.162.32,Windows Server 2019,16,8,1024,Logística,Electrónica,2023,True
+786,srv-mzgq-0786,10.0.86.43,Windows Server 2019,32,2,120,Operaciones,Electrónica,2022,True
+787,srv-lvtw-0787,10.0.121.142,Windows Server 2022,4,2,512,Operaciones,Electrónica,2021,False
+788,srv-fmrp-0788,10.3.141.140,Windows Server 2019,4,4,512,Operaciones,Deportes,2015,True
+789,srv-bxnp-0789,10.5.164.82,Ubuntu 22.04,32,8,1024,RRHH,Alimentación,2023,True
+790,srv-lxzc-0790,10.1.184.252,Red Hat 9,4,8,120,RRHH,Deportes,2022,True
+791,srv-tvdr-0791,10.0.172.10,Windows Server 2022,4,16,512,Finanzas,Electrónica,2020,True
+792,srv-ssjq-0792,10.2.238.74,Red Hat 9,32,4,1024,RRHH,Electrónica,2017,True
+793,srv-grjn-0793,10.3.224.99,Ubuntu 20.04,8,16,1024,Operaciones,Electrónica,2023,True
+794,srv-kyjw-0794,10.2.176.212,Ubuntu 22.04,32,8,512,Finanzas,Hogar,2020,True
+795,srv-jshm-0795,10.1.175.61,CentOS 8,32,4,2048,Finanzas,Hogar,2019,False
+796,srv-gjmp-0796,10.5.4.247,Windows Server 2022,64,4,1024,Logística,Electrónica,2015,True
+797,srv-tfps-0797,10.4.136.147,Debian 11,16,4,256,RRHH,Alimentación,2023,False
+798,srv-omfw-0798,10.1.9.73,Windows Server 2022,2,1,1024,RRHH,Alimentación,2022,True
+799,srv-ieta-0799,10.4.217.166,Windows Server 2019,32,1,256,RRHH,Alimentación,2016,True
+800,srv-kdcx-0800,10.2.227.126,Windows Server 2022,8,16,120,Operaciones,Electrónica,2022,True
+801,srv-vjpm-0801,10.1.128.237,Ubuntu 20.04,8,8,1024,Marketing,Alimentación,2017,True
+802,srv-dijk-0802,10.2.178.43,Windows Server 2022,64,1,120,RRHH,Alimentación,2021,False
+803,srv-ssln-0803,10.1.49.221,Windows Server 2022,16,16,512,Operaciones,Electrónica,2021,True
+804,srv-rntz-0804,10.3.96.41,Ubuntu 20.04,32,8,120,Marketing,Electrónica,2017,True
+805,srv-gstj-0805,10.5.133.21,Windows Server 2019,64,2,512,Marketing,Deportes,2015,True
+806,srv-wlnj-0806,10.2.229.209,Windows Server 2019,8,4,2048,IT,Electrónica,2021,True
+807,srv-ittp-0807,10.4.218.166,Windows Server 2022,64,2,2048,Finanzas,Deportes,2018,False
+808,srv-oztg-0808,10.5.138.132,Red Hat 9,2,4,120,Operaciones,Hogar,2015,True
+809,srv-nqxd-0809,10.5.187.176,Ubuntu 22.04,8,2,256,RRHH,Alimentación,2020,True
+810,srv-blxv-0810,10.2.231.187,Ubuntu 22.04,4,16,2048,Marketing,Alimentación,2020,True
+811,srv-past-0811,10.2.35.69,Red Hat 9,32,4,1024,Finanzas,Hogar,2015,False
+812,srv-qzdx-0812,10.3.119.18,Ubuntu 22.04,8,8,512,Ventas,Electrónica,2019,False
+813,srv-dgzr-0813,10.3.82.13,Red Hat 9,4,8,512,Operaciones,Electrónica,2024,True
+814,srv-yuee-0814,10.5.123.215,Windows Server 2022,16,8,256,Ventas,Deportes,2021,True
+815,srv-ehzu-0815,10.2.229.254,Windows Server 2019,16,16,1024,Operaciones,Alimentación,2021,True
+816,srv-eefg-0816,10.5.46.106,Debian 11,4,8,256,RRHH,Deportes,2018,True
+817,srv-zbrq-0817,10.2.32.234,Red Hat 9,64,16,512,Operaciones,Hogar,2020,True
+818,srv-actx-0818,10.0.95.134,Ubuntu 22.04,16,4,120,Logística,Electrónica,2021,False
+819,srv-oepy-0819,10.1.141.136,CentOS 8,4,4,512,IT,Hogar,2022,True
+820,srv-ufnd-0820,10.4.52.191,CentOS 8,16,2,2048,Operaciones,Hogar,2020,True
+821,srv-efya-0821,10.4.77.59,Debian 11,64,4,2048,Marketing,Hogar,2024,True
+822,srv-nspz-0822,10.3.163.140,Windows Server 2022,4,2,1024,Marketing,Hogar,2022,True
+823,srv-erht-0823,10.0.63.150,Debian 11,32,2,1024,Marketing,Electrónica,2020,False
+824,srv-wttd-0824,10.2.23.234,Windows Server 2022,64,1,1024,Logística,Alimentación,2021,True
+825,srv-lawr-0825,10.5.52.245,Ubuntu 20.04,4,4,1024,Operaciones,Deportes,2020,False
+826,srv-mfwl-0826,10.5.234.101,Windows Server 2019,8,2,512,IT,Alimentación,2020,False
+827,srv-rnns-0827,10.0.123.84,Debian 11,2,1,1024,IT,Deportes,2018,True
+828,srv-ctqg-0828,10.5.195.175,Debian 11,4,4,512,IT,Hogar,2022,True
+829,srv-xyzp-0829,10.5.79.18,CentOS 8,8,1,1024,RRHH,Hogar,2017,True
+830,srv-vykp-0830,10.0.100.145,Ubuntu 22.04,8,16,256,Finanzas,Alimentación,2024,True
+831,srv-gjho-0831,10.3.246.74,Ubuntu 20.04,4,16,256,RRHH,Electrónica,2021,False
+832,srv-jkjx-0832,10.3.96.152,Debian 11,16,4,1024,Ventas,Hogar,2024,True
+833,srv-tejg-0833,10.5.45.87,Red Hat 9,32,2,120,Finanzas,Deportes,2017,True
+834,srv-kljw-0834,10.5.177.132,CentOS 8,16,1,120,Logística,Electrónica,2023,True
+835,srv-cplm-0835,10.4.221.10,Ubuntu 20.04,32,16,120,Operaciones,Alimentación,2023,True
+836,srv-rvhe-0836,10.2.68.138,CentOS 8,64,2,1024,Logística,Hogar,2021,True
+837,srv-srog-0837,10.3.223.167,Debian 11,16,1,2048,RRHH,Hogar,2016,True
+838,srv-spuk-0838,10.2.29.137,CentOS 8,16,4,1024,Finanzas,Hogar,2024,True
+839,srv-cwms-0839,10.4.79.229,Red Hat 9,2,8,256,Operaciones,Deportes,2021,True
+840,srv-tnpl-0840,10.2.29.5,Windows Server 2019,32,1,2048,Operaciones,Electrónica,2018,False
+841,srv-rdze-0841,10.0.147.135,Ubuntu 22.04,32,16,256,Logística,Deportes,2018,False
+842,srv-jmfx-0842,10.2.102.132,Windows Server 2022,2,4,2048,IT,Deportes,2017,True
+843,srv-rzig-0843,10.0.255.132,CentOS 8,32,16,120,Logística,Deportes,2022,True
+844,srv-kbvt-0844,10.2.230.233,Windows Server 2019,4,16,120,Ventas,Alimentación,2017,True
+845,srv-itgu-0845,10.3.22.113,Red Hat 9,8,16,2048,Marketing,Deportes,2022,False
+846,srv-uwxj-0846,10.2.139.15,Red Hat 9,2,8,256,Operaciones,Deportes,2017,False
+847,srv-vkfz-0847,10.4.62.71,Ubuntu 20.04,32,4,512,Finanzas,Deportes,2019,True
+848,srv-vsst-0848,10.3.225.148,Red Hat 9,64,16,512,Logística,Electrónica,2019,False
+849,srv-zxka-0849,10.2.74.67,Debian 11,32,16,1024,RRHH,Alimentación,2019,True
+850,srv-ccsa-0850,10.5.27.154,Windows Server 2019,16,1,512,Finanzas,Electrónica,2023,True
+851,srv-qqky-0851,10.5.151.42,Debian 11,32,1,256,Ventas,Alimentación,2020,True
+852,srv-tefx-0852,10.2.54.185,Debian 11,4,2,2048,Ventas,Electrónica,2016,True
+853,srv-qgpj-0853,10.5.187.111,Red Hat 9,4,2,1024,Marketing,Hogar,2022,True
+854,srv-yden-0854,10.3.235.219,Windows Server 2019,16,2,2048,Ventas,Deportes,2016,True
+855,srv-nggj-0855,10.2.91.156,Ubuntu 22.04,32,1,1024,Logística,Electrónica,2020,False
+856,srv-lqpk-0856,10.3.41.211,Windows Server 2022,2,2,1024,Operaciones,Deportes,2022,True
+857,srv-loao-0857,10.4.211.91,Red Hat 9,64,4,512,IT,Deportes,2018,False
+858,srv-pqnz-0858,10.1.45.226,CentOS 8,64,2,256,Finanzas,Alimentación,2022,True
+859,srv-mlyq-0859,10.0.10.221,Windows Server 2022,4,8,512,RRHH,Deportes,2015,True
+860,srv-jntv-0860,10.5.228.36,Red Hat 9,16,2,2048,Operaciones,Deportes,2016,True
+861,srv-fxpq-0861,10.3.36.205,Red Hat 9,16,4,2048,Marketing,Electrónica,2022,True
+862,srv-mmex-0862,10.4.136.244,Red Hat 9,2,4,2048,Ventas,Alimentación,2017,True
+863,srv-ahhc-0863,10.3.137.138,Windows Server 2022,32,16,120,Logística,Electrónica,2022,False
+864,srv-ywet-0864,10.0.167.79,Debian 11,32,16,1024,Logística,Electrónica,2023,False
+865,srv-ggbo-0865,10.3.37.144,Windows Server 2022,64,2,2048,RRHH,Hogar,2022,True
+866,srv-asxt-0866,10.1.140.203,Windows Server 2022,8,16,1024,Marketing,Alimentación,2020,True
+867,srv-mipc-0867,10.3.10.123,Ubuntu 20.04,2,8,512,IT,Alimentación,2016,True
+868,srv-jbss-0868,10.2.237.134,Debian 11,32,2,512,Marketing,Electrónica,2015,True
+869,srv-sviv-0869,10.5.103.100,Windows Server 2022,4,1,1024,IT,Hogar,2016,True
+870,srv-oghb-0870,10.1.14.246,Red Hat 9,16,16,512,RRHH,Electrónica,2021,True
+871,srv-ifwi-0871,10.5.34.50,CentOS 8,32,2,1024,Marketing,Alimentación,2015,False
+872,srv-lcva-0872,10.5.43.93,Windows Server 2022,32,16,256,Logística,Electrónica,2022,True
+873,srv-kyfn-0873,10.3.95.49,Red Hat 9,8,16,1024,RRHH,Deportes,2015,True
+874,srv-iwly-0874,10.4.196.33,Windows Server 2022,64,2,120,Operaciones,Alimentación,2015,True
+875,srv-xxge-0875,10.1.43.85,CentOS 8,4,8,1024,Operaciones,Hogar,2015,True
+876,srv-oiuk-0876,10.4.220.124,Ubuntu 22.04,8,1,2048,Logística,Electrónica,2018,True
+877,srv-llec-0877,10.1.154.231,Debian 11,32,2,120,RRHH,Hogar,2021,False
+878,srv-akza-0878,10.4.99.217,Ubuntu 20.04,8,16,2048,IT,Hogar,2015,False
+879,srv-nrlg-0879,10.0.1.164,Red Hat 9,16,4,1024,RRHH,Alimentación,2016,False
+880,srv-jzcq-0880,10.2.71.140,Windows Server 2022,2,1,1024,Finanzas,Alimentación,2018,True
+881,srv-caav-0881,10.4.147.189,Ubuntu 20.04,4,1,2048,Marketing,Alimentación,2019,True
+882,srv-jtyo-0882,10.0.151.222,Debian 11,64,1,120,Finanzas,Alimentación,2022,True
+883,srv-mnux-0883,10.0.130.242,Debian 11,2,1,120,RRHH,Alimentación,2018,True
+884,srv-eixb-0884,10.2.201.53,Debian 11,8,8,120,Finanzas,Alimentación,2016,True
+885,srv-tufn-0885,10.1.205.91,CentOS 8,2,16,2048,Ventas,Electrónica,2020,True
+886,srv-xuok-0886,10.4.170.27,Ubuntu 20.04,2,2,2048,Ventas,Alimentación,2023,True
+887,srv-ztbf-0887,10.3.183.202,CentOS 8,64,16,512,Marketing,Electrónica,2023,False
+888,srv-rbto-0888,10.0.192.6,Red Hat 9,2,4,2048,IT,Hogar,2016,False
+889,srv-lkry-0889,10.1.52.97,Ubuntu 20.04,8,4,1024,IT,Deportes,2015,False
+890,srv-loti-0890,10.0.6.179,Windows Server 2019,8,16,120,Logística,Deportes,2024,False
+891,srv-vtly-0891,10.1.111.3,Ubuntu 20.04,16,1,512,Ventas,Alimentación,2020,False
+892,srv-ophn-0892,10.3.249.198,Ubuntu 20.04,8,1,1024,Logística,Alimentación,2016,True
+893,srv-rbch-0893,10.4.174.49,Debian 11,32,16,1024,Logística,Hogar,2024,False
+894,srv-ejyz-0894,10.1.117.254,Ubuntu 20.04,2,1,120,Operaciones,Hogar,2019,True
+895,srv-gtzf-0895,10.5.111.61,Windows Server 2022,2,8,256,Marketing,Electrónica,2024,True
+896,srv-qpzy-0896,10.5.216.37,Debian 11,32,4,256,RRHH,Alimentación,2021,True
+897,srv-cyvb-0897,10.4.33.183,Windows Server 2019,64,1,512,Ventas,Hogar,2022,True
+898,srv-sbov-0898,10.3.166.83,Ubuntu 20.04,64,4,2048,Operaciones,Hogar,2015,False
+899,srv-yzms-0899,10.0.161.90,Ubuntu 22.04,2,2,512,RRHH,Alimentación,2024,False
+900,srv-awxp-0900,10.4.244.71,Debian 11,64,1,512,Operaciones,Hogar,2023,False
+901,srv-tscz-0901,10.4.145.184,CentOS 8,32,16,512,Ventas,Deportes,2017,False
+902,srv-wrzy-0902,10.1.14.92,Windows Server 2022,32,2,2048,RRHH,Deportes,2019,True
+903,srv-wyly-0903,10.4.11.160,Windows Server 2019,4,1,2048,Ventas,Alimentación,2019,True
+904,srv-ybqh-0904,10.2.25.201,Windows Server 2022,4,2,1024,Operaciones,Alimentación,2015,True
+905,srv-noau-0905,10.3.38.161,Windows Server 2019,32,2,512,IT,Electrónica,2015,False
+906,srv-mpwj-0906,10.2.233.27,Windows Server 2022,4,1,2048,RRHH,Electrónica,2021,True
+907,srv-ftxf-0907,10.4.123.29,Ubuntu 22.04,4,2,120,Ventas,Electrónica,2022,True
+908,srv-pdvh-0908,10.1.9.237,Ubuntu 22.04,4,8,1024,Logística,Alimentación,2023,True
+909,srv-zcmx-0909,10.5.93.40,Ubuntu 20.04,8,4,1024,RRHH,Hogar,2020,True
+910,srv-luiz-0910,10.2.190.154,Ubuntu 20.04,16,4,2048,Operaciones,Electrónica,2020,True
+911,srv-jule-0911,10.1.161.94,Debian 11,32,1,512,Ventas,Deportes,2016,True
+912,srv-phxs-0912,10.4.59.243,Ubuntu 20.04,32,8,2048,IT,Hogar,2022,True
+913,srv-aquc-0913,10.2.52.16,Ubuntu 20.04,8,8,1024,Marketing,Alimentación,2021,False
+914,srv-qqui-0914,10.0.110.203,Red Hat 9,8,4,2048,Logística,Deportes,2018,True
+915,srv-moeg-0915,10.4.61.206,Ubuntu 20.04,64,2,1024,RRHH,Alimentación,2022,True
+916,srv-rkrb-0916,10.3.182.240,Windows Server 2022,2,2,256,Ventas,Deportes,2020,True
+917,srv-tkkm-0917,10.1.35.176,CentOS 8,16,1,256,IT,Electrónica,2021,False
+918,srv-nifw-0918,10.3.148.193,Windows Server 2022,4,2,256,Finanzas,Deportes,2015,True
+919,srv-arah-0919,10.0.139.52,Windows Server 2019,4,2,256,Finanzas,Hogar,2018,True
+920,srv-kcum-0920,10.0.55.89,Ubuntu 20.04,8,8,1024,IT,Hogar,2023,False
+921,srv-kqbi-0921,10.1.169.144,Ubuntu 20.04,2,8,120,Logística,Electrónica,2018,False
+922,srv-bfwo-0922,10.3.121.25,Red Hat 9,2,8,512,Ventas,Hogar,2022,True
+923,srv-xlhd-0923,10.2.167.92,CentOS 8,8,16,256,Logística,Alimentación,2015,True
+924,srv-ocrz-0924,10.3.122.202,Windows Server 2019,2,1,2048,Finanzas,Alimentación,2018,False
+925,srv-bebh-0925,10.0.199.90,Red Hat 9,4,1,2048,RRHH,Deportes,2021,True
+926,srv-tdug-0926,10.4.120.31,Debian 11,4,16,120,IT,Electrónica,2024,True
+927,srv-zxxw-0927,10.4.63.80,Red Hat 9,32,4,512,IT,Electrónica,2018,True
+928,srv-avfs-0928,10.4.91.102,Ubuntu 22.04,32,8,512,Finanzas,Deportes,2017,False
+929,srv-fbuo-0929,10.0.43.109,CentOS 8,64,8,120,Ventas,Hogar,2021,False
+930,srv-teop-0930,10.4.208.238,Ubuntu 20.04,16,4,1024,RRHH,Hogar,2023,False
+931,srv-xmuh-0931,10.2.46.37,Ubuntu 20.04,16,2,120,Ventas,Hogar,2015,True
+932,srv-vben-0932,10.0.93.31,Ubuntu 20.04,2,2,512,Ventas,Electrónica,2018,True
+933,srv-ztwc-0933,10.2.214.45,Red Hat 9,8,1,1024,Finanzas,Deportes,2015,True
+934,srv-zbtz-0934,10.5.45.11,Ubuntu 22.04,8,16,120,RRHH,Deportes,2016,True
+935,srv-bjmu-0935,10.0.244.153,Ubuntu 20.04,4,8,2048,RRHH,Deportes,2019,True
+936,srv-jkoo-0936,10.3.163.252,CentOS 8,2,4,1024,Finanzas,Electrónica,2015,True
+937,srv-vpnw-0937,10.2.18.140,Windows Server 2019,8,1,1024,Marketing,Hogar,2023,False
+938,srv-vhdq-0938,10.0.185.83,Red Hat 9,64,8,120,Marketing,Alimentación,2023,False
+939,srv-xgaa-0939,10.5.122.9,CentOS 8,16,16,256,Marketing,Electrónica,2020,False
+940,srv-ktic-0940,10.5.55.66,Debian 11,64,8,512,Ventas,Deportes,2024,True
+941,srv-iwyy-0941,10.4.168.30,Ubuntu 22.04,64,4,512,Marketing,Deportes,2016,True
+942,srv-gnsw-0942,10.4.210.93,Debian 11,64,4,120,IT,Deportes,2017,True
+943,srv-kopp-0943,10.0.98.243,Windows Server 2022,8,4,1024,Ventas,Hogar,2018,True
+944,srv-vkrt-0944,10.4.225.158,Windows Server 2022,16,4,512,Operaciones,Hogar,2018,True
+945,srv-kzkh-0945,10.3.61.232,Ubuntu 22.04,64,1,1024,Logística,Hogar,2017,True
+946,srv-tcvi-0946,10.5.161.127,Debian 11,64,4,256,Operaciones,Alimentación,2015,True
+947,srv-kulk-0947,10.2.222.35,Windows Server 2019,64,8,2048,Ventas,Electrónica,2015,True
+948,srv-tlxk-0948,10.4.228.218,Ubuntu 20.04,2,1,1024,Logística,Alimentación,2021,True
+949,srv-zclh-0949,10.5.31.38,Windows Server 2022,32,4,256,Marketing,Hogar,2021,True
+950,srv-pswb-0950,10.0.170.204,Windows Server 2019,64,8,1024,Ventas,Deportes,2022,True
+951,srv-znwu-0951,10.0.32.78,Ubuntu 20.04,32,8,120,Marketing,Hogar,2018,True
+952,srv-dodg-0952,10.0.83.243,Windows Server 2022,16,8,512,Operaciones,Hogar,2019,True
+953,srv-ujny-0953,10.1.95.70,Ubuntu 20.04,4,2,2048,IT,Electrónica,2016,True
+954,srv-xizg-0954,10.5.183.220,Windows Server 2019,16,1,512,IT,Alimentación,2018,False
+955,srv-ycgy-0955,10.4.36.96,Red Hat 9,2,2,512,Logística,Alimentación,2016,True
+956,srv-cokt-0956,10.0.102.99,Debian 11,16,8,120,IT,Deportes,2016,True
+957,srv-bmri-0957,10.4.131.244,Ubuntu 20.04,2,8,1024,Finanzas,Hogar,2022,True
+958,srv-rsne-0958,10.1.72.18,Windows Server 2022,8,16,256,Marketing,Hogar,2017,True
+959,srv-pgma-0959,10.4.254.20,Ubuntu 20.04,16,8,512,Finanzas,Hogar,2016,True
+960,srv-asvh-0960,10.0.239.191,CentOS 8,2,16,120,Logística,Hogar,2020,True
+961,srv-nllz-0961,10.0.165.19,Debian 11,8,1,512,Finanzas,Hogar,2015,True
+962,srv-fwrb-0962,10.2.200.189,Red Hat 9,4,8,2048,IT,Hogar,2016,True
+963,srv-jkqt-0963,10.2.184.98,Debian 11,2,1,512,Finanzas,Deportes,2018,False
+964,srv-wwpj-0964,10.0.245.195,Windows Server 2022,4,2,2048,Ventas,Hogar,2017,True
+965,srv-ywal-0965,10.3.60.212,Windows Server 2022,8,2,512,Logística,Alimentación,2016,True
+966,srv-fvhb-0966,10.3.249.120,Windows Server 2019,8,4,120,Ventas,Alimentación,2018,True
+967,srv-ucdt-0967,10.5.235.168,Debian 11,4,2,1024,Marketing,Deportes,2020,False
+968,srv-usmv-0968,10.1.199.44,Windows Server 2022,4,8,256,Ventas,Electrónica,2015,True
+969,srv-nxgh-0969,10.5.63.110,Debian 11,2,16,512,Marketing,Deportes,2016,True
+970,srv-djby-0970,10.5.216.98,Windows Server 2019,16,4,2048,IT,Hogar,2019,True
+971,srv-gota-0971,10.2.18.43,Ubuntu 20.04,8,16,256,Finanzas,Electrónica,2018,True
+972,srv-ktgo-0972,10.4.9.135,Red Hat 9,32,4,1024,Logística,Deportes,2015,True
+973,srv-wner-0973,10.2.158.107,Windows Server 2022,2,4,120,Operaciones,Hogar,2022,False
+974,srv-kkwy-0974,10.5.108.141,Debian 11,8,1,1024,RRHH,Electrónica,2021,True
+975,srv-satx-0975,10.3.145.115,Windows Server 2022,8,4,512,RRHH,Hogar,2015,True
+976,srv-xbqb-0976,10.0.55.64,CentOS 8,16,4,120,Operaciones,Electrónica,2020,True
+977,srv-xqxu-0977,10.3.218.24,Debian 11,4,16,120,Logística,Electrónica,2015,False
+978,srv-tvay-0978,10.4.21.28,Windows Server 2019,64,1,1024,RRHH,Electrónica,2015,True
+979,srv-gzeh-0979,10.5.249.148,Windows Server 2019,4,16,2048,RRHH,Hogar,2019,True
+980,srv-cofm-0980,10.2.167.186,Debian 11,16,8,1024,Marketing,Electrónica,2016,True
+981,srv-quvf-0981,10.3.150.251,CentOS 8,2,8,512,IT,Alimentación,2017,True
+982,srv-iwgi-0982,10.3.14.113,Windows Server 2022,2,2,2048,Marketing,Alimentación,2017,False
+983,srv-qkyr-0983,10.3.60.30,Red Hat 9,16,4,2048,IT,Hogar,2023,True
+984,srv-ngby-0984,10.2.121.101,Windows Server 2022,4,4,256,Ventas,Hogar,2017,False
+985,srv-aatd-0985,10.2.219.190,Red Hat 9,32,16,512,Marketing,Alimentación,2020,True
+986,srv-cydi-0986,10.3.219.160,Windows Server 2022,16,16,120,RRHH,Alimentación,2020,True
+987,srv-mjhx-0987,10.4.190.69,CentOS 8,64,2,1024,Marketing,Hogar,2019,True
+988,srv-bwoc-0988,10.5.60.156,Ubuntu 20.04,2,16,2048,Finanzas,Deportes,2019,True
+989,srv-keld-0989,10.4.204.96,Red Hat 9,64,16,120,Logística,Electrónica,2024,False
+990,srv-qopi-0990,10.1.46.171,Windows Server 2019,8,8,512,Finanzas,Hogar,2024,True
+991,srv-ynkc-0991,10.4.189.73,Ubuntu 22.04,64,2,1024,RRHH,Deportes,2018,True
+992,srv-szfo-0992,10.2.180.47,Red Hat 9,32,4,256,IT,Hogar,2018,True
+993,srv-idck-0993,10.3.167.152,Windows Server 2022,4,2,256,Logística,Alimentación,2020,True
+994,srv-idys-0994,10.3.151.1,Debian 11,16,16,1024,Marketing,Electrónica,2015,False
+995,srv-yuah-0995,10.4.156.87,Ubuntu 20.04,8,16,1024,RRHH,Hogar,2018,True
+996,srv-eyte-0996,10.0.63.18,Ubuntu 22.04,64,1,2048,RRHH,Hogar,2023,False
+997,srv-pibg-0997,10.0.183.231,Debian 11,8,8,120,IT,Deportes,2016,True
+998,srv-wpxj-0998,10.5.7.68,CentOS 8,64,16,256,Ventas,Deportes,2023,True
+999,srv-sfxh-0999,10.1.251.18,Windows Server 2019,2,1,2048,IT,Alimentación,2020,False
+1000,srv-jxgs-1000,10.2.126.89,Ubuntu 22.04,16,8,2048,Logística,Deportes,2024,False

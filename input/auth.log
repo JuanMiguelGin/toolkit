@@ -1,0 +1,10 @@
+May 26 10:01:01 server sshd[1234]: Failed password for root from 192.168.1.10 port 22 ssh2
+May 26 10:01:05 server sshd[1235]: Accepted password for admin from 10.0.0.5 port 22 ssh2
+May 26 10:02:11 server sshd[1236]: Failed password for root from 192.168.1.10 port 22 ssh2
+May 26 10:03:20 server sshd[1237]: Failed password for ubuntu from 203.0.113.99 port 22 ssh2
+May 26 10:04:01 server sshd[1238]: Failed password for admin from 192.168.1.10 port 22 ssh2
+May 26 10:05:30 server sshd[1239]: Failed password for root from 198.51.100.7 port 22 ssh2
+May 26 10:06:00 server sshd[1240]: Failed password for root from 203.0.113.99 port 22 ssh2
+May 26 10:07:15 server sshd[1241]: Accepted publickey for deploy from 10.0.0.1 port 22 ssh2
+May 26 10:08:44 server sshd[1242]: Failed password for root from 198.51.100.7 port 22 ssh2
+May 26 10:09:00 server sshd[1243]: Failed password for root from 198.51.100.7 port 22 ssh2

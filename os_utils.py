@@ -18,7 +18,7 @@ def check_ping(ip: str) -> bool:
     """
     try:
         resultado = subprocess.run(
-            ["ping", "-c", "1", "-W", "2", ip],
+            ["ping", "-n", "1", ip],
             stdout=subprocess.DEVNULL,
             stderr=subprocess.DEVNULL,
             timeout=5,
