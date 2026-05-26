@@ -37,7 +37,7 @@ def filtrar_vulnerables(df: pd.DataFrame) -> pd.DataFrame:
     mask = (
         df["sistema_operativo"].str.contains("Windows Server", na=False)
         | (df["ram_gb"] < 4)
-        | (df["anio_compra"] < 2018)
+        | (df["año_compra"] < 2018)
     )
     return df[mask].copy()
 
@@ -115,7 +115,7 @@ def ejecutar_analisis(ruta_csv: str = INPUT_CSV) -> None:
     print(f"     - RAM < 4 GB          : {len(ram_baja)}")
 
     # Antigüedad
-    antiguos = df_vuln[df_vuln["anio_compra"] < 2018]
+    antiguos = df_vuln[df_vuln["año_compra"] < 2018]
     print(f"     - Compra antes de 2018: {len(antiguos)}")
 
     # Agrupaciones

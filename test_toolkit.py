@@ -143,7 +143,7 @@ class TestInventory:
             "categoria_inventario": [
                 "Electrónica", "Hogar", "Deportes", "Alimentación", "Electrónica"
             ],
-            "anio_compra": [2020, 2016, 2021, 2019, 2022],
+            "año_compra": [2020, 2016, 2021, 2019, 2022],
             "activo": [True, True, False, True, True],
         }
         return pd.DataFrame(data)
@@ -163,7 +163,7 @@ class TestInventory:
     def test_filtrar_antiguos(self, df_muestra):
         """Detecta servidores comprados antes de 2018."""
         resultado = filtrar_vulnerables(df_muestra)
-        assert "srv-b" in resultado["hostname"].tolist()  # anio_compra=2016
+        assert "srv-b" in resultado["hostname"].tolist()  # año_compra=2016
 
     def test_no_filtra_servidores_ok(self, df_muestra):
         """Un servidor Ubuntu moderno con buena RAM no debe aparecer."""
@@ -180,7 +180,7 @@ class TestInventory:
 
     def test_generador_fila_campos_completos(self):
         """Cada fila generada tiene todos los campos necesarios."""
-        fila = _generar_fila(1)
+        fila = _generar_fila(1, ["Electronica", "Hogar"])
         for campo in ["id", "hostname", "ip", "sistema_operativo", "ram_gb",
-                      "departamento", "categoria_inventario", "anio_compra", "activo"]:
+                      "departamento", "categoria_inventario", "año_compra", "activo"]:
             assert campo in fila
